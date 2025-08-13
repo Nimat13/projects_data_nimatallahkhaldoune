@@ -1,0 +1,1370 @@
+[
+  {
+    "id": "01985b6a-fb41-77ae-84bd-a84e5bd85eb8",
+    "created_at": "2025-07-30T12:59:54.560941+00:00",
+    "updated_at": "2025-07-30T12:59:54.560941+00:00",
+    "total_testruns": {
+      "id": "01985b6a-fb22-7655-8166-b553d4e29388",
+      "created_at": "2025-07-30T12:59:54.530729+00:00",
+      "updated_at": "2025-07-30T12:59:54.530729+00:00",
+      "name": "total_testruns",
+      "value": 164,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985b6a-fb27-7519-89e1-24123385b07c",
+      "created_at": "2025-07-30T12:59:54.535515+00:00",
+      "updated_at": "2025-07-30T12:59:54.535515+00:00",
+      "name": "total_empty_testruns",
+      "value": 1,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985b6a-fb2c-7fc0-84a5-cadeed12a299",
+      "created_at": "2025-07-30T12:59:54.540148+00:00",
+      "updated_at": "2025-07-30T12:59:54.540148+00:00",
+      "name": "total_steps",
+      "value": 1399,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985b6a-fb30-7e63-9292-9d34a77360e7",
+      "created_at": "2025-07-30T12:59:54.544499+00:00",
+      "updated_at": "2025-07-30T12:59:54.544499+00:00",
+      "name": "total_AC",
+      "value": 352,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985b6a-fb34-7925-8dc2-ae7ff7fc7ea9",
+      "created_at": "2025-07-30T12:59:54.548391+00:00",
+      "updated_at": "2025-07-30T12:59:54.548391+00:00",
+      "name": "total_CO",
+      "value": 323,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985b6a-fb39-7e41-b70f-543990bc50da",
+      "created_at": "2025-07-30T12:59:54.553016+00:00",
+      "updated_at": "2025-07-30T12:59:54.553016+00:00",
+      "name": "total_ER",
+      "value": 560,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985b6a-fb1b-7219-944d-6f90ffbdc14d",
+      "created_at": "2025-07-30T12:59:54.523016+00:00",
+      "updated_at": "2025-07-30T12:59:54.523016+00:00",
+      "reference": "TES-00000146",
+      "revision": "7",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6a-fb3d-79d9-b50e-858629025eb0",
+      "created_at": "2025-07-30T12:59:54.557189+00:00",
+      "updated_at": "2025-07-30T12:59:54.557189+00:00",
+      "info": 1,
+      "warning": 990,
+      "error": 1
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985b6a-fa83-7b1d-bbdf-7530a6b53b36",
+    "created_at": "2025-07-30T12:59:54.371813+00:00",
+    "updated_at": "2025-07-30T12:59:54.371813+00:00",
+    "total_testruns": {
+      "id": "01985b6a-fa66-73bc-a777-ce1b94bc5d71",
+      "created_at": "2025-07-30T12:59:54.342638+00:00",
+      "updated_at": "2025-07-30T12:59:54.342638+00:00",
+      "name": "total_testruns",
+      "value": 204,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985b6a-fa6b-7b3e-915e-422e753b5edc",
+      "created_at": "2025-07-30T12:59:54.347098+00:00",
+      "updated_at": "2025-07-30T12:59:54.347098+00:00",
+      "name": "total_empty_testruns",
+      "value": 1,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985b6a-fa6f-7770-aae4-8d2f805bca8a",
+      "created_at": "2025-07-30T12:59:54.351115+00:00",
+      "updated_at": "2025-07-30T12:59:54.351115+00:00",
+      "name": "total_steps",
+      "value": 1673,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985b6a-fa73-741b-a39b-2cae07369346",
+      "created_at": "2025-07-30T12:59:54.355552+00:00",
+      "updated_at": "2025-07-30T12:59:54.355552+00:00",
+      "name": "total_AC",
+      "value": 419,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985b6a-fa77-7fa1-ad55-ad92dcce4b02",
+      "created_at": "2025-07-30T12:59:54.359568+00:00",
+      "updated_at": "2025-07-30T12:59:54.359568+00:00",
+      "name": "total_CO",
+      "value": 364,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985b6a-fa7b-7341-a062-394d94b416b3",
+      "created_at": "2025-07-30T12:59:54.363920+00:00",
+      "updated_at": "2025-07-30T12:59:54.363920+00:00",
+      "name": "total_ER",
+      "value": 686,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985b6a-fa61-724e-9ab3-e686c0d0d4bc",
+      "created_at": "2025-07-30T12:59:54.337832+00:00",
+      "updated_at": "2025-07-30T12:59:54.337832+00:00",
+      "reference": "TES-00000146",
+      "revision": "6",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6a-fa80-7aad-8c66-724a0fcf24a8",
+      "created_at": "2025-07-30T12:59:54.368045+00:00",
+      "updated_at": "2025-07-30T12:59:54.368045+00:00",
+      "info": 1,
+      "warning": 1308,
+      "error": 1
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985b6b-0294-715c-8128-5fb3e8256e5b",
+    "created_at": "2025-07-30T12:59:56.436759+00:00",
+    "updated_at": "2025-07-30T12:59:56.436759+00:00",
+    "total_testruns": {
+      "id": "01985b6b-0273-7c7f-834b-8aae7cc5a51a",
+      "created_at": "2025-07-30T12:59:56.403770+00:00",
+      "updated_at": "2025-07-30T12:59:56.403770+00:00",
+      "name": "total_testruns",
+      "value": 7,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985b6b-0278-7691-8fd9-4d139c34d445",
+      "created_at": "2025-07-30T12:59:56.408904+00:00",
+      "updated_at": "2025-07-30T12:59:56.408904+00:00",
+      "name": "total_empty_testruns",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985b6b-027e-7b47-acf8-fed0de9a71b6",
+      "created_at": "2025-07-30T12:59:56.414521+00:00",
+      "updated_at": "2025-07-30T12:59:56.414521+00:00",
+      "name": "total_steps",
+      "value": 82,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985b6b-0283-7862-9863-5724cea58c8b",
+      "created_at": "2025-07-30T12:59:56.419050+00:00",
+      "updated_at": "2025-07-30T12:59:56.419050+00:00",
+      "name": "total_AC",
+      "value": 33,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985b6b-0287-78f0-9a1c-a15099f40034",
+      "created_at": "2025-07-30T12:59:56.423336+00:00",
+      "updated_at": "2025-07-30T12:59:56.423336+00:00",
+      "name": "total_CO",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985b6b-028c-7e43-88ab-b3895d91019c",
+      "created_at": "2025-07-30T12:59:56.428463+00:00",
+      "updated_at": "2025-07-30T12:59:56.428463+00:00",
+      "name": "total_ER",
+      "value": 22,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985b6b-026e-7a53-86a1-b43bae3688a3",
+      "created_at": "2025-07-30T12:59:56.398559+00:00",
+      "updated_at": "2025-07-30T12:59:56.398559+00:00",
+      "reference": "TES-00006238",
+      "revision": "10",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-0290-7681-90b1-4eb6ef6fc0d5",
+      "created_at": "2025-07-30T12:59:56.432665+00:00",
+      "updated_at": "2025-07-30T12:59:56.432665+00:00",
+      "info": 0,
+      "warning": 59,
+      "error": 1
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985852-7c6e-7c31-bf43-b263559a5fa5",
+    "created_at": "2025-07-29T22:34:17.582104+00:00",
+    "updated_at": "2025-07-29T22:34:17.582104+00:00",
+    "total_testruns": {
+      "id": "01985852-7c51-758c-b8b8-983ed3146c4a",
+      "created_at": "2025-07-29T22:34:17.553878+00:00",
+      "updated_at": "2025-07-29T22:34:17.553878+00:00",
+      "name": "total_testruns",
+      "value": 171,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985852-7c55-7a78-8853-19f6b78a1969",
+      "created_at": "2025-07-29T22:34:17.557807+00:00",
+      "updated_at": "2025-07-29T22:34:17.557807+00:00",
+      "name": "total_empty_testruns",
+      "value": 1,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985852-7c59-73e3-9b3f-efb5d3bf23b9",
+      "created_at": "2025-07-29T22:34:17.561556+00:00",
+      "updated_at": "2025-07-29T22:34:17.561556+00:00",
+      "name": "total_steps",
+      "value": 1413,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985852-7c5d-7fba-af6f-b0511ed9d8c2",
+      "created_at": "2025-07-29T22:34:17.565866+00:00",
+      "updated_at": "2025-07-29T22:34:17.565866+00:00",
+      "name": "total_AC",
+      "value": 357,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985852-7c62-7701-aef6-0b313c1521e0",
+      "created_at": "2025-07-29T22:34:17.570015+00:00",
+      "updated_at": "2025-07-29T22:34:17.570015+00:00",
+      "name": "total_CO",
+      "value": 320,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985852-7c66-70c0-9b2c-bb50713d3ead",
+      "created_at": "2025-07-29T22:34:17.573997+00:00",
+      "updated_at": "2025-07-29T22:34:17.573997+00:00",
+      "name": "total_ER",
+      "value": 565,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7c4d-752e-a4a4-c7e4b812c7a8",
+      "created_at": "2025-07-29T22:34:17.549686+00:00",
+      "updated_at": "2025-07-29T22:34:17.549686+00:00",
+      "reference": "TES-00000146",
+      "revision": "9",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985852-7c69-7c87-ac5c-8061f1243791",
+      "created_at": "2025-07-29T22:34:17.577820+00:00",
+      "updated_at": "2025-07-29T22:34:17.577820+00:00",
+      "info": 1,
+      "warning": 1074,
+      "error": 7
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985854-459b-74ca-ac7b-bb38e9de8a29",
+    "created_at": "2025-07-29T22:36:14.618968+00:00",
+    "updated_at": "2025-07-29T22:36:14.618968+00:00",
+    "total_testruns": {
+      "id": "01985854-457c-72e7-9c80-febbdb75de8d",
+      "created_at": "2025-07-29T22:36:14.588827+00:00",
+      "updated_at": "2025-07-29T22:36:14.588827+00:00",
+      "name": "total_testruns",
+      "value": 171,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985854-4581-7fdd-ab30-4ee7aad79472",
+      "created_at": "2025-07-29T22:36:14.593387+00:00",
+      "updated_at": "2025-07-29T22:36:14.593387+00:00",
+      "name": "total_empty_testruns",
+      "value": 1,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985854-4585-7860-a921-628e7ae53ce4",
+      "created_at": "2025-07-29T22:36:14.597910+00:00",
+      "updated_at": "2025-07-29T22:36:14.597910+00:00",
+      "name": "total_steps",
+      "value": 1413,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985854-458a-70bd-966b-3389f05083a5",
+      "created_at": "2025-07-29T22:36:14.602087+00:00",
+      "updated_at": "2025-07-29T22:36:14.602087+00:00",
+      "name": "total_AC",
+      "value": 357,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985854-458e-77d9-8c8d-694d606d3123",
+      "created_at": "2025-07-29T22:36:14.606010+00:00",
+      "updated_at": "2025-07-29T22:36:14.606010+00:00",
+      "name": "total_CO",
+      "value": 320,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985854-4592-7c1c-888c-a1e96667fd91",
+      "created_at": "2025-07-29T22:36:14.610159+00:00",
+      "updated_at": "2025-07-29T22:36:14.610159+00:00",
+      "name": "total_ER",
+      "value": 565,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7c4d-752e-a4a4-c7e4b812c7a8",
+      "created_at": "2025-07-29T22:34:17.549686+00:00",
+      "updated_at": "2025-07-29T22:34:17.549686+00:00",
+      "reference": "TES-00000146",
+      "revision": "9",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985854-4597-72e0-b785-36358f2afce1",
+      "created_at": "2025-07-29T22:36:14.614940+00:00",
+      "updated_at": "2025-07-29T22:36:14.614940+00:00",
+      "info": 1,
+      "warning": 1074,
+      "error": 7
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985b6a-fca9-7674-92cf-1b1b386b73e7",
+    "created_at": "2025-07-30T12:59:54.921454+00:00",
+    "updated_at": "2025-07-30T12:59:54.921454+00:00",
+    "total_testruns": {
+      "id": "01985b6a-fc8d-77a5-8b2d-1970da04e465",
+      "created_at": "2025-07-30T12:59:54.893637+00:00",
+      "updated_at": "2025-07-30T12:59:54.893637+00:00",
+      "name": "total_testruns",
+      "value": 171,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985b6a-fc92-74f3-8ab0-fe8c9c457a15",
+      "created_at": "2025-07-30T12:59:54.898044+00:00",
+      "updated_at": "2025-07-30T12:59:54.898044+00:00",
+      "name": "total_empty_testruns",
+      "value": 1,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985b6a-fc95-7758-b435-f25ab6349e96",
+      "created_at": "2025-07-30T12:59:54.901918+00:00",
+      "updated_at": "2025-07-30T12:59:54.901918+00:00",
+      "name": "total_steps",
+      "value": 1413,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985b6a-fc99-7537-a9de-b75144fde666",
+      "created_at": "2025-07-30T12:59:54.905737+00:00",
+      "updated_at": "2025-07-30T12:59:54.905737+00:00",
+      "name": "total_AC",
+      "value": 357,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985b6a-fc9d-7ffa-a95f-b6b16fb25e7c",
+      "created_at": "2025-07-30T12:59:54.909806+00:00",
+      "updated_at": "2025-07-30T12:59:54.909806+00:00",
+      "name": "total_CO",
+      "value": 320,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985b6a-fca1-734e-a0f3-4abe3c05ee6f",
+      "created_at": "2025-07-30T12:59:54.913880+00:00",
+      "updated_at": "2025-07-30T12:59:54.913880+00:00",
+      "name": "total_ER",
+      "value": 565,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7c4d-752e-a4a4-c7e4b812c7a8",
+      "created_at": "2025-07-29T22:34:17.549686+00:00",
+      "updated_at": "2025-07-29T22:34:17.549686+00:00",
+      "reference": "TES-00000146",
+      "revision": "9",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6a-fca5-7507-b002-8bfe171c4ff9",
+      "created_at": "2025-07-30T12:59:54.917722+00:00",
+      "updated_at": "2025-07-30T12:59:54.917722+00:00",
+      "info": 1,
+      "warning": 1074,
+      "error": 7
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985852-7ffc-7ee9-a33c-1e26298dc579",
+    "created_at": "2025-07-29T22:34:18.492873+00:00",
+    "updated_at": "2025-07-29T22:34:18.492873+00:00",
+    "total_testruns": {
+      "id": "01985852-7fe0-79d3-8fa0-369aba97453c",
+      "created_at": "2025-07-29T22:34:18.464020+00:00",
+      "updated_at": "2025-07-29T22:34:18.464020+00:00",
+      "name": "total_testruns",
+      "value": 86,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985852-7fe4-7606-bdbb-e841f38ccc19",
+      "created_at": "2025-07-29T22:34:18.468274+00:00",
+      "updated_at": "2025-07-29T22:34:18.468274+00:00",
+      "name": "total_empty_testruns",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985852-7fe8-7074-8844-915a5f83b65e",
+      "created_at": "2025-07-29T22:34:18.472664+00:00",
+      "updated_at": "2025-07-29T22:34:18.472664+00:00",
+      "name": "total_steps",
+      "value": 944,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985852-7fec-7948-bf63-692ace0ce1dc",
+      "created_at": "2025-07-29T22:34:18.476790+00:00",
+      "updated_at": "2025-07-29T22:34:18.476790+00:00",
+      "name": "total_AC",
+      "value": 251,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985852-7ff0-75f6-9381-24f9f6e47c7c",
+      "created_at": "2025-07-29T22:34:18.480781+00:00",
+      "updated_at": "2025-07-29T22:34:18.480781+00:00",
+      "name": "total_CO",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985852-7ff4-7e1d-9da9-80f5fff72edd",
+      "created_at": "2025-07-29T22:34:18.484623+00:00",
+      "updated_at": "2025-07-29T22:34:18.484623+00:00",
+      "name": "total_ER",
+      "value": 607,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7fd4-7498-ae28-137340ea0bfd",
+      "created_at": "2025-07-29T22:34:18.452266+00:00",
+      "updated_at": "2025-07-29T22:34:18.452266+00:00",
+      "reference": "TES-00005864",
+      "revision": "2",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985852-7ff8-772f-8a9c-0865f54d3fce",
+      "created_at": "2025-07-29T22:34:18.488916+00:00",
+      "updated_at": "2025-07-29T22:34:18.488916+00:00",
+      "info": 0,
+      "warning": 2,
+      "error": 1
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985854-48df-73e2-9eee-9c4f83c5e1e8",
+    "created_at": "2025-07-29T22:36:15.455089+00:00",
+    "updated_at": "2025-07-29T22:36:15.455089+00:00",
+    "total_testruns": {
+      "id": "01985854-48be-7e25-b346-ab6510084c55",
+      "created_at": "2025-07-29T22:36:15.422599+00:00",
+      "updated_at": "2025-07-29T22:36:15.422599+00:00",
+      "name": "total_testruns",
+      "value": 86,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985854-48c3-79c3-8b50-d15745a85e49",
+      "created_at": "2025-07-29T22:36:15.427583+00:00",
+      "updated_at": "2025-07-29T22:36:15.427583+00:00",
+      "name": "total_empty_testruns",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985854-48c8-736d-a5ab-4130100d533b",
+      "created_at": "2025-07-29T22:36:15.432268+00:00",
+      "updated_at": "2025-07-29T22:36:15.432268+00:00",
+      "name": "total_steps",
+      "value": 944,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985854-48cd-7f52-9581-58fc99601298",
+      "created_at": "2025-07-29T22:36:15.437121+00:00",
+      "updated_at": "2025-07-29T22:36:15.437121+00:00",
+      "name": "total_AC",
+      "value": 251,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985854-48d1-7c4c-9b69-726a0b04b72c",
+      "created_at": "2025-07-29T22:36:15.441644+00:00",
+      "updated_at": "2025-07-29T22:36:15.441644+00:00",
+      "name": "total_CO",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985854-48d5-7c45-a3d5-7b6233983a43",
+      "created_at": "2025-07-29T22:36:15.445865+00:00",
+      "updated_at": "2025-07-29T22:36:15.445865+00:00",
+      "name": "total_ER",
+      "value": 607,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7fd4-7498-ae28-137340ea0bfd",
+      "created_at": "2025-07-29T22:34:18.452266+00:00",
+      "updated_at": "2025-07-29T22:34:18.452266+00:00",
+      "reference": "TES-00005864",
+      "revision": "2",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985854-48da-712d-aee1-2db180bb503a",
+      "created_at": "2025-07-29T22:36:15.450384+00:00",
+      "updated_at": "2025-07-29T22:36:15.450384+00:00",
+      "info": 0,
+      "warning": 2,
+      "error": 1
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985b6b-0dea-76fb-bec2-750ac8a6e8ca",
+    "created_at": "2025-07-30T12:59:59.338024+00:00",
+    "updated_at": "2025-07-30T12:59:59.338024+00:00",
+    "total_testruns": {
+      "id": "01985b6b-0dce-77cb-92c3-8ff40f082480",
+      "created_at": "2025-07-30T12:59:59.310423+00:00",
+      "updated_at": "2025-07-30T12:59:59.310423+00:00",
+      "name": "total_testruns",
+      "value": 86,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985b6b-0dd2-7673-ada3-64705823de0d",
+      "created_at": "2025-07-30T12:59:59.314554+00:00",
+      "updated_at": "2025-07-30T12:59:59.314554+00:00",
+      "name": "total_empty_testruns",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985b6b-0dd6-7000-ac48-202d7ef41691",
+      "created_at": "2025-07-30T12:59:59.318382+00:00",
+      "updated_at": "2025-07-30T12:59:59.318382+00:00",
+      "name": "total_steps",
+      "value": 944,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985b6b-0dda-7f5b-a976-2f262f538ca2",
+      "created_at": "2025-07-30T12:59:59.322220+00:00",
+      "updated_at": "2025-07-30T12:59:59.322220+00:00",
+      "name": "total_AC",
+      "value": 251,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985b6b-0dde-7ffd-a642-d592186e26b7",
+      "created_at": "2025-07-30T12:59:59.326218+00:00",
+      "updated_at": "2025-07-30T12:59:59.326218+00:00",
+      "name": "total_CO",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985b6b-0de2-702d-b955-6aff7b30ba40",
+      "created_at": "2025-07-30T12:59:59.330065+00:00",
+      "updated_at": "2025-07-30T12:59:59.330065+00:00",
+      "name": "total_ER",
+      "value": 607,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7fd4-7498-ae28-137340ea0bfd",
+      "created_at": "2025-07-29T22:34:18.452266+00:00",
+      "updated_at": "2025-07-29T22:34:18.452266+00:00",
+      "reference": "TES-00005864",
+      "revision": "2",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-0de6-708f-8ca3-00dc0e0cc62a",
+      "created_at": "2025-07-30T12:59:59.334207+00:00",
+      "updated_at": "2025-07-30T12:59:59.334207+00:00",
+      "info": 0,
+      "warning": 2,
+      "error": 1
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985852-7765-7e3e-92ad-1c4fef8576ea",
+    "created_at": "2025-07-29T22:34:16.293002+00:00",
+    "updated_at": "2025-07-29T22:34:16.293002+00:00",
+    "total_testruns": {
+      "id": "01985852-7748-7cae-a813-de5f3805dd3c",
+      "created_at": "2025-07-29T22:34:16.264220+00:00",
+      "updated_at": "2025-07-29T22:34:16.264220+00:00",
+      "name": "total_testruns",
+      "value": 203,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985852-774c-743c-b21f-956c5ca89e2b",
+      "created_at": "2025-07-29T22:34:16.268822+00:00",
+      "updated_at": "2025-07-29T22:34:16.268822+00:00",
+      "name": "total_empty_testruns",
+      "value": 2,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985852-7751-728b-943e-49e3d2bcaf34",
+      "created_at": "2025-07-29T22:34:16.273143+00:00",
+      "updated_at": "2025-07-29T22:34:16.273143+00:00",
+      "name": "total_steps",
+      "value": 2013,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985852-7755-7713-b2ed-c322d5252c8f",
+      "created_at": "2025-07-29T22:34:16.276971+00:00",
+      "updated_at": "2025-07-29T22:34:16.276971+00:00",
+      "name": "total_AC",
+      "value": 587,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985852-7758-7f30-8478-1bf2ef603230",
+      "created_at": "2025-07-29T22:34:16.280925+00:00",
+      "updated_at": "2025-07-29T22:34:16.280925+00:00",
+      "name": "total_CO",
+      "value": 17,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985852-775d-7066-937f-cea3bb94bd6f",
+      "created_at": "2025-07-29T22:34:16.285186+00:00",
+      "updated_at": "2025-07-29T22:34:16.285186+00:00",
+      "name": "total_ER",
+      "value": 1206,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7743-7701-af23-d80b5564609a",
+      "created_at": "2025-07-29T22:34:16.259806+00:00",
+      "updated_at": "2025-07-29T22:34:16.259806+00:00",
+      "reference": "TES-00001046",
+      "revision": "4",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985852-7761-71de-8b93-fb6e3fd55e63",
+      "created_at": "2025-07-29T22:34:16.289156+00:00",
+      "updated_at": "2025-07-29T22:34:16.289156+00:00",
+      "info": 9,
+      "warning": 97,
+      "error": 10
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985854-40b1-7aae-a073-0bd2a7aea768",
+    "created_at": "2025-07-29T22:36:13.361465+00:00",
+    "updated_at": "2025-07-29T22:36:13.361465+00:00",
+    "total_testruns": {
+      "id": "01985854-4093-7059-b0ad-00bf48dbddb2",
+      "created_at": "2025-07-29T22:36:13.331097+00:00",
+      "updated_at": "2025-07-29T22:36:13.331097+00:00",
+      "name": "total_testruns",
+      "value": 203,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985854-4098-7971-b6d1-a50c545b937c",
+      "created_at": "2025-07-29T22:36:13.335999+00:00",
+      "updated_at": "2025-07-29T22:36:13.335999+00:00",
+      "name": "total_empty_testruns",
+      "value": 2,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985854-409c-7cdc-a84f-1d2fa37504ca",
+      "created_at": "2025-07-29T22:36:13.340604+00:00",
+      "updated_at": "2025-07-29T22:36:13.340604+00:00",
+      "name": "total_steps",
+      "value": 2013,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985854-40a1-7a3c-b838-878ca00bf44c",
+      "created_at": "2025-07-29T22:36:13.344956+00:00",
+      "updated_at": "2025-07-29T22:36:13.344956+00:00",
+      "name": "total_AC",
+      "value": 587,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985854-40a5-792a-bdcb-4aa557e4b381",
+      "created_at": "2025-07-29T22:36:13.349216+00:00",
+      "updated_at": "2025-07-29T22:36:13.349216+00:00",
+      "name": "total_CO",
+      "value": 17,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985854-40a9-7f64-a231-1e72863f8168",
+      "created_at": "2025-07-29T22:36:13.353409+00:00",
+      "updated_at": "2025-07-29T22:36:13.353409+00:00",
+      "name": "total_ER",
+      "value": 1206,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7743-7701-af23-d80b5564609a",
+      "created_at": "2025-07-29T22:34:16.259806+00:00",
+      "updated_at": "2025-07-29T22:34:16.259806+00:00",
+      "reference": "TES-00001046",
+      "revision": "4",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985854-40ad-7cad-9e43-93bfdb7fc5cb",
+      "created_at": "2025-07-29T22:36:13.357180+00:00",
+      "updated_at": "2025-07-29T22:36:13.357180+00:00",
+      "info": 9,
+      "warning": 97,
+      "error": 10
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985b6b-0c87-7ac3-963c-7ee8f341d251",
+    "created_at": "2025-07-30T12:59:58.983007+00:00",
+    "updated_at": "2025-07-30T12:59:58.983007+00:00",
+    "total_testruns": {
+      "id": "01985b6b-0c68-7b01-8e1c-ae804efa60d0",
+      "created_at": "2025-07-30T12:59:58.952893+00:00",
+      "updated_at": "2025-07-30T12:59:58.952893+00:00",
+      "name": "total_testruns",
+      "value": 185,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985b6b-0c6e-7810-b58c-e532e0345bab",
+      "created_at": "2025-07-30T12:59:58.958170+00:00",
+      "updated_at": "2025-07-30T12:59:58.958170+00:00",
+      "name": "total_empty_testruns",
+      "value": 2,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985b6b-0c72-7c6c-b2c0-a4ee5eb6da81",
+      "created_at": "2025-07-30T12:59:58.962885+00:00",
+      "updated_at": "2025-07-30T12:59:58.962885+00:00",
+      "name": "total_steps",
+      "value": 1811,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985b6b-0c77-769b-be3c-ad6dc8eb5742",
+      "created_at": "2025-07-30T12:59:58.967176+00:00",
+      "updated_at": "2025-07-30T12:59:58.967176+00:00",
+      "name": "total_AC",
+      "value": 521,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985b6b-0c7b-7dec-a0af-b636faae913e",
+      "created_at": "2025-07-30T12:59:58.971276+00:00",
+      "updated_at": "2025-07-30T12:59:58.971276+00:00",
+      "name": "total_CO",
+      "value": 5,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985b6b-0c7f-7bf2-aefb-ffe602850932",
+      "created_at": "2025-07-30T12:59:58.975450+00:00",
+      "updated_at": "2025-07-30T12:59:58.975450+00:00",
+      "name": "total_ER",
+      "value": 1100,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7743-7701-af23-d80b5564609a",
+      "created_at": "2025-07-29T22:34:16.259806+00:00",
+      "updated_at": "2025-07-29T22:34:16.259806+00:00",
+      "reference": "TES-00001046",
+      "revision": "4",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-0c83-7adb-b0f0-74b4a57fed3a",
+      "created_at": "2025-07-30T12:59:58.979194+00:00",
+      "updated_at": "2025-07-30T12:59:58.979194+00:00",
+      "info": 1,
+      "warning": 71,
+      "error": 10
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985b6a-ffc1-72d4-9892-995104c98714",
+    "created_at": "2025-07-30T12:59:55.712943+00:00",
+    "updated_at": "2025-07-30T12:59:55.712943+00:00",
+    "total_testruns": {
+      "id": "01985b6a-ffa3-772d-8252-719c9d4f5079",
+      "created_at": "2025-07-30T12:59:55.683343+00:00",
+      "updated_at": "2025-07-30T12:59:55.683343+00:00",
+      "name": "total_testruns",
+      "value": 41,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985b6a-ffa7-751f-855c-a060900fadc9",
+      "created_at": "2025-07-30T12:59:55.687888+00:00",
+      "updated_at": "2025-07-30T12:59:55.687888+00:00",
+      "name": "total_empty_testruns",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985b6a-ffab-7ccf-bbac-85220c10f29a",
+      "created_at": "2025-07-30T12:59:55.691808+00:00",
+      "updated_at": "2025-07-30T12:59:55.691808+00:00",
+      "name": "total_steps",
+      "value": 347,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985b6a-ffb0-76f6-8787-e27f7b33de49",
+      "created_at": "2025-07-30T12:59:55.696197+00:00",
+      "updated_at": "2025-07-30T12:59:55.696197+00:00",
+      "name": "total_AC",
+      "value": 119,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985b6a-ffb4-70e4-8a4e-6ab373819746",
+      "created_at": "2025-07-30T12:59:55.700470+00:00",
+      "updated_at": "2025-07-30T12:59:55.700470+00:00",
+      "name": "total_CO",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985b6a-ffb8-735d-a4d2-fbd94431f7a8",
+      "created_at": "2025-07-30T12:59:55.704737+00:00",
+      "updated_at": "2025-07-30T12:59:55.704737+00:00",
+      "name": "total_ER",
+      "value": 106,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985b6a-ff9f-7070-bb00-c45971e615ab",
+      "created_at": "2025-07-30T12:59:55.679056+00:00",
+      "updated_at": "2025-07-30T12:59:55.679056+00:00",
+      "reference": "TES-00006237",
+      "revision": "5",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6a-ffbd-7075-ab8d-eefe6502c2f5",
+      "created_at": "2025-07-30T12:59:55.709169+00:00",
+      "updated_at": "2025-07-30T12:59:55.709169+00:00",
+      "info": 2,
+      "warning": 220,
+      "error": 3
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985b6b-04b4-71bf-ab6b-f473ef5bcb88",
+    "created_at": "2025-07-30T12:59:56.980457+00:00",
+    "updated_at": "2025-07-30T12:59:56.980457+00:00",
+    "total_testruns": {
+      "id": "01985b6b-0498-7f58-9fc8-dd268f3c0973",
+      "created_at": "2025-07-30T12:59:56.952416+00:00",
+      "updated_at": "2025-07-30T12:59:56.952416+00:00",
+      "name": "total_testruns",
+      "value": 3,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985b6b-049c-7668-b1fd-607a74222cc0",
+      "created_at": "2025-07-30T12:59:56.956793+00:00",
+      "updated_at": "2025-07-30T12:59:56.956793+00:00",
+      "name": "total_empty_testruns",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985b6b-04a1-7506-95c5-63f374289d4c",
+      "created_at": "2025-07-30T12:59:56.961212+00:00",
+      "updated_at": "2025-07-30T12:59:56.961212+00:00",
+      "name": "total_steps",
+      "value": 38,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985b6b-04a5-7b00-a808-b566fbd193aa",
+      "created_at": "2025-07-30T12:59:56.965275+00:00",
+      "updated_at": "2025-07-30T12:59:56.965275+00:00",
+      "name": "total_AC",
+      "value": 17,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985b6b-04a9-7fcd-a5d1-00737aa2209e",
+      "created_at": "2025-07-30T12:59:56.969125+00:00",
+      "updated_at": "2025-07-30T12:59:56.969125+00:00",
+      "name": "total_CO",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985b6b-04ad-7a37-8f2f-48d115d7040c",
+      "created_at": "2025-07-30T12:59:56.972990+00:00",
+      "updated_at": "2025-07-30T12:59:56.972990+00:00",
+      "name": "total_ER",
+      "value": 11,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985b6b-0494-7c1a-bb6c-c8bab1ec46d8",
+      "created_at": "2025-07-30T12:59:56.948196+00:00",
+      "updated_at": "2025-07-30T12:59:56.948196+00:00",
+      "reference": "TES-00007683",
+      "revision": "3",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-04b0-70e1-b308-630dfa9d59fc",
+      "created_at": "2025-07-30T12:59:56.976672+00:00",
+      "updated_at": "2025-07-30T12:59:56.976672+00:00",
+      "info": 0,
+      "warning": 26,
+      "error": 1
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985852-79f9-7561-b00e-d96d00bbbbfc",
+    "created_at": "2025-07-29T22:34:16.953883+00:00",
+    "updated_at": "2025-07-29T22:34:16.953883+00:00",
+    "total_testruns": {
+      "id": "01985852-79df-70eb-a6ca-1596ecd390c4",
+      "created_at": "2025-07-29T22:34:16.926990+00:00",
+      "updated_at": "2025-07-29T22:34:16.926990+00:00",
+      "name": "total_testruns",
+      "value": 11,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985852-79e3-7195-9ad3-00df6bebe326",
+      "created_at": "2025-07-29T22:34:16.931099+00:00",
+      "updated_at": "2025-07-29T22:34:16.931099+00:00",
+      "name": "total_empty_testruns",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985852-79e7-782a-8c93-ff98f3b7c74b",
+      "created_at": "2025-07-29T22:34:16.935083+00:00",
+      "updated_at": "2025-07-29T22:34:16.935083+00:00",
+      "name": "total_steps",
+      "value": 175,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985852-79eb-7d3f-888f-0408a0ee1bfc",
+      "created_at": "2025-07-29T22:34:16.939068+00:00",
+      "updated_at": "2025-07-29T22:34:16.939068+00:00",
+      "name": "total_AC",
+      "value": 33,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985852-79ef-7bfe-9704-e4d1c22550e3",
+      "created_at": "2025-07-29T22:34:16.942946+00:00",
+      "updated_at": "2025-07-29T22:34:16.942946+00:00",
+      "name": "total_CO",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985852-79f2-7a8b-b4d6-a7bcdce5ee22",
+      "created_at": "2025-07-29T22:34:16.946745+00:00",
+      "updated_at": "2025-07-29T22:34:16.946745+00:00",
+      "name": "total_ER",
+      "value": 51,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-79da-7ff1-b6e6-6152ac275ed9",
+      "created_at": "2025-07-29T22:34:16.922137+00:00",
+      "updated_at": "2025-07-29T22:34:16.922137+00:00",
+      "reference": "TES-00011553",
+      "revision": "2",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985852-79f6-7ce8-ab12-0eb7a41a13cf",
+      "created_at": "2025-07-29T22:34:16.950342+00:00",
+      "updated_at": "2025-07-29T22:34:16.950342+00:00",
+      "info": 0,
+      "warning": 59,
+      "error": 1
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985854-432d-703c-b0de-e362d5f0f48e",
+    "created_at": "2025-07-29T22:36:13.997618+00:00",
+    "updated_at": "2025-07-29T22:36:13.997618+00:00",
+    "total_testruns": {
+      "id": "01985854-430f-731d-8608-c58ffe35f676",
+      "created_at": "2025-07-29T22:36:13.967835+00:00",
+      "updated_at": "2025-07-29T22:36:13.967835+00:00",
+      "name": "total_testruns",
+      "value": 11,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985854-4314-72c6-acbb-c4127f4d253c",
+      "created_at": "2025-07-29T22:36:13.972453+00:00",
+      "updated_at": "2025-07-29T22:36:13.972453+00:00",
+      "name": "total_empty_testruns",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985854-4318-7f34-b271-a1377ef842a7",
+      "created_at": "2025-07-29T22:36:13.976844+00:00",
+      "updated_at": "2025-07-29T22:36:13.976844+00:00",
+      "name": "total_steps",
+      "value": 175,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985854-431c-7b5e-bd7e-2b665ca3f927",
+      "created_at": "2025-07-29T22:36:13.980873+00:00",
+      "updated_at": "2025-07-29T22:36:13.980873+00:00",
+      "name": "total_AC",
+      "value": 33,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985854-4321-797d-8521-c935b89ab19b",
+      "created_at": "2025-07-29T22:36:13.985192+00:00",
+      "updated_at": "2025-07-29T22:36:13.985192+00:00",
+      "name": "total_CO",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985854-4325-77fe-9353-a5bc0740cad3",
+      "created_at": "2025-07-29T22:36:13.989836+00:00",
+      "updated_at": "2025-07-29T22:36:13.989836+00:00",
+      "name": "total_ER",
+      "value": 51,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-79da-7ff1-b6e6-6152ac275ed9",
+      "created_at": "2025-07-29T22:34:16.922137+00:00",
+      "updated_at": "2025-07-29T22:34:16.922137+00:00",
+      "reference": "TES-00011553",
+      "revision": "2",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985854-4329-7fc5-a750-0ec00b63a206",
+      "created_at": "2025-07-29T22:36:13.993854+00:00",
+      "updated_at": "2025-07-29T22:36:13.993854+00:00",
+      "info": 0,
+      "warning": 59,
+      "error": 1
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985b6b-13a9-7d09-8173-69763a4df18d",
+    "created_at": "2025-07-30T13:00:00.809219+00:00",
+    "updated_at": "2025-07-30T13:00:00.809219+00:00",
+    "total_testruns": {
+      "id": "01985b6b-138d-7978-9ccc-a6a1372ad6ec",
+      "created_at": "2025-07-30T13:00:00.781309+00:00",
+      "updated_at": "2025-07-30T13:00:00.781309+00:00",
+      "name": "total_testruns",
+      "value": 11,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985b6b-1391-7481-8213-2e8066f2c597",
+      "created_at": "2025-07-30T13:00:00.785611+00:00",
+      "updated_at": "2025-07-30T13:00:00.785611+00:00",
+      "name": "total_empty_testruns",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985b6b-1395-75c6-a197-76d4dd22b6b1",
+      "created_at": "2025-07-30T13:00:00.789417+00:00",
+      "updated_at": "2025-07-30T13:00:00.789417+00:00",
+      "name": "total_steps",
+      "value": 175,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985b6b-1399-7c94-9d14-07f7ca0627fa",
+      "created_at": "2025-07-30T13:00:00.793295+00:00",
+      "updated_at": "2025-07-30T13:00:00.793295+00:00",
+      "name": "total_AC",
+      "value": 33,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985b6b-139d-7c65-95e2-99ad57eec374",
+      "created_at": "2025-07-30T13:00:00.797124+00:00",
+      "updated_at": "2025-07-30T13:00:00.797124+00:00",
+      "name": "total_CO",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985b6b-13a1-73d0-851f-3898b1937318",
+      "created_at": "2025-07-30T13:00:00.801450+00:00",
+      "updated_at": "2025-07-30T13:00:00.801450+00:00",
+      "name": "total_ER",
+      "value": 51,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-79da-7ff1-b6e6-6152ac275ed9",
+      "created_at": "2025-07-29T22:34:16.922137+00:00",
+      "updated_at": "2025-07-29T22:34:16.922137+00:00",
+      "reference": "TES-00011553",
+      "revision": "2",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-13a5-7598-aa75-fa9e7ab2aba4",
+      "created_at": "2025-07-30T13:00:00.805482+00:00",
+      "updated_at": "2025-07-30T13:00:00.805482+00:00",
+      "info": 0,
+      "warning": 59,
+      "error": 1
+    },
+    "document_type": "procedure_definition"
+  },
+  {
+    "id": "01985b6b-03fe-70cc-b8ca-e2d9ac6db0fa",
+    "created_at": "2025-07-30T12:59:56.798536+00:00",
+    "updated_at": "2025-07-30T12:59:56.798536+00:00",
+    "total_testruns": {
+      "id": "01985b6b-03e4-77ff-a1d7-d311dc4fce09",
+      "created_at": "2025-07-30T12:59:56.772116+00:00",
+      "updated_at": "2025-07-30T12:59:56.772116+00:00",
+      "name": "total_testruns",
+      "value": 7,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_empty_testruns": {
+      "id": "01985b6b-03e8-742c-bf40-3ee468eab1d8",
+      "created_at": "2025-07-30T12:59:56.776348+00:00",
+      "updated_at": "2025-07-30T12:59:56.776348+00:00",
+      "name": "total_empty_testruns",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_steps": {
+      "id": "01985b6b-03ec-78de-accc-25ef699323af",
+      "created_at": "2025-07-30T12:59:56.780099+00:00",
+      "updated_at": "2025-07-30T12:59:56.780099+00:00",
+      "name": "total_steps",
+      "value": 82,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC": {
+      "id": "01985b6b-03ef-75c2-9463-f9df76118c32",
+      "created_at": "2025-07-30T12:59:56.783927+00:00",
+      "updated_at": "2025-07-30T12:59:56.783927+00:00",
+      "name": "total_AC",
+      "value": 33,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO": {
+      "id": "01985b6b-03f3-7150-b8b2-c4fae6900ea6",
+      "created_at": "2025-07-30T12:59:56.787749+00:00",
+      "updated_at": "2025-07-30T12:59:56.787749+00:00",
+      "name": "total_CO",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER": {
+      "id": "01985b6b-03f7-75fb-9eaa-c0373f7ebb3d",
+      "created_at": "2025-07-30T12:59:56.791422+00:00",
+      "updated_at": "2025-07-30T12:59:56.791422+00:00",
+      "name": "total_ER",
+      "value": 22,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985b6b-03df-7a3c-95be-8254d83b10b6",
+      "created_at": "2025-07-30T12:59:56.767667+00:00",
+      "updated_at": "2025-07-30T12:59:56.767667+00:00",
+      "reference": "TES-00006238",
+      "revision": "9",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-03fb-77ec-9e0e-a2c4b3b037c0",
+      "created_at": "2025-07-30T12:59:56.795001+00:00",
+      "updated_at": "2025-07-30T12:59:56.795001+00:00",
+      "info": 0,
+      "warning": 59,
+      "error": 1
+    },
+    "document_type": "procedure_definition"
+  }
+]

@@ -1,0 +1,169 @@
+2025-07-08 - 12:06:27,435 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/
+2025-07-08 - 12:06:27,439 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 404 - Processed in 0.0034s
+2025-07-08 - 12:06:27,505 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/favicon.ico
+2025-07-08 - 12:06:27,507 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 404 - Processed in 0.0011s
+2025-07-08 - 12:06:27,770 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:06:33,554 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/docs
+2025-07-08 - 12:06:33,555 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0008s
+2025-07-08 - 12:06:33,743 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/openapi.json
+2025-07-08 - 12:06:33,745 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0025s
+2025-07-08 - 12:06:33,904 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:07:57,808 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: POST http://localhost:8000/procedure-service/procedure-correlation/post
+2025-07-08 - 12:07:57,816 - HIL_SYNTHESIS - PROCEDURE_CORRELATION_CONTROLLER - INFO - Action - creating procedure correlation : none=CreateKpiVariableSchema(name='string', value=5, group_type=<KPIGroup.CORRELATE: 'CORRELATE'>, references='string') same_rating=CreateKpiVariableSchema(name='string', value=8, group_type=<KPIGroup.CORRELATE: 'CORRELATE'>, references='string') deviant=CreateKpiVariableSchema(name='string', value=9, group_type=<KPIGroup.CORRELATE: 'CORRELATE'>, references='string') unexpected=CreateKpiVariableSchema(name='string', value=3, group_type=<KPIGroup.CORRELATE: 'CORRELATE'>, references='string') expected=CreateKpiVariableSchema(name='string', value=9, group_type=<KPIGroup.CORRELATE: 'CORRELATE'>, references='string') procedure=CreateProcedureSchema(reference='string', revision='string', status='string') comment=CreateCommentSchema(info=16, warning=3, error=0) bench=CreateBenchSchema(reference='DSB-05')
+2025-07-08 - 12:07:58,025 - HIL_SYNTHESIS - BENCH_SERVICE - INFO - Action - Created bench : reference='DSB-05'
+2025-07-08 - 12:07:58,040 - HIL_SYNTHESIS - PROCEDURE_SERVICE - INFO - Action - created one procedure : reference='string' revision='string' status='string'
+2025-07-08 - 12:07:58,062 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=5 group_type=<KPIGroup.CORRELATE: 'CORRELATE'> references='string'
+2025-07-08 - 12:07:58,065 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:07:58,071 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=8 group_type=<KPIGroup.CORRELATE: 'CORRELATE'> references='string'
+2025-07-08 - 12:07:58,077 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=9 group_type=<KPIGroup.CORRELATE: 'CORRELATE'> references='string'
+2025-07-08 - 12:07:58,083 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=3 group_type=<KPIGroup.CORRELATE: 'CORRELATE'> references='string'
+2025-07-08 - 12:07:58,090 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=9 group_type=<KPIGroup.CORRELATE: 'CORRELATE'> references='string'
+2025-07-08 - 12:07:58,100 - HIL_SYNTHESIS - COMMENT_SERVICE - INFO - Action - Created comment : info=16 warning=3 error=0
+2025-07-08 - 12:07:58,129 - HIL_SYNTHESIS - PROCEDURE_CORRELATION_SERVICE - INFO - Action - created one procedure correlation : none=CreateKpiVariableSchema(name='string', value=5, group_type=<KPIGroup.CORRELATE: 'CORRELATE'>, references='string') same_rating=CreateKpiVariableSchema(name='string', value=8, group_type=<KPIGroup.CORRELATE: 'CORRELATE'>, references='string') deviant=CreateKpiVariableSchema(name='string', value=9, group_type=<KPIGroup.CORRELATE: 'CORRELATE'>, references='string') unexpected=CreateKpiVariableSchema(name='string', value=3, group_type=<KPIGroup.CORRELATE: 'CORRELATE'>, references='string') expected=CreateKpiVariableSchema(name='string', value=9, group_type=<KPIGroup.CORRELATE: 'CORRELATE'>, references='string') procedure=CreateProcedureSchema(reference='string', revision='string', status='string') comment=CreateCommentSchema(info=16, warning=3, error=0) bench=CreateBenchSchema(reference='DSB-05')
+2025-07-08 - 12:07:58,156 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.3478s
+2025-07-08 - 12:07:58,416 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:11:00,133 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: POST http://localhost:8000/procedure-service/procedure-rating/post
+2025-07-08 - 12:11:00,140 - HIL_SYNTHESIS - PROCEDURE_RATING_CONTROLLER - INFO - Action - creating procedure rating : ok=CreateKpiVariableSchema(name='string', value=10, group_type=<KPIGroup.RATE: 'RATE'>, references='string') nok=CreateKpiVariableSchema(name='string', value=4, group_type=<KPIGroup.RATE: 'RATE'>, references='string') nok_minor=CreateKpiVariableSchema(name='string', value=2, group_type=<KPIGroup.RATE: 'RATE'>, references='string') not_rated=CreateKpiVariableSchema(name='string', value=1, group_type=<KPIGroup.RATE: 'RATE'>, references='string') to_be_rated=CreateKpiVariableSchema(name='string', value=0, group_type=<KPIGroup.RATE: 'RATE'>, references='string') procedure=CreateProcedureSchema(reference='string', revision='string', status='string') comment=CreateCommentSchema(info=7, warning=2, error=1) bench=CreateBenchSchema(reference='DSB-05')
+2025-07-08 - 12:11:00,165 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=10 group_type=<KPIGroup.RATE: 'RATE'> references='string'
+2025-07-08 - 12:11:00,172 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=4 group_type=<KPIGroup.RATE: 'RATE'> references='string'
+2025-07-08 - 12:11:00,181 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=2 group_type=<KPIGroup.RATE: 'RATE'> references='string'
+2025-07-08 - 12:11:00,189 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=1 group_type=<KPIGroup.RATE: 'RATE'> references='string'
+2025-07-08 - 12:11:00,198 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=0 group_type=<KPIGroup.RATE: 'RATE'> references='string'
+2025-07-08 - 12:11:00,204 - HIL_SYNTHESIS - COMMENT_SERVICE - INFO - Action - Created comment : info=7 warning=2 error=1
+2025-07-08 - 12:11:00,230 - HIL_SYNTHESIS - PROCEDURE_RATING_SERVICE - INFO - Action - created one procedure rating : ok=CreateKpiVariableSchema(name='string', value=10, group_type=<KPIGroup.RATE: 'RATE'>, references='string') nok=CreateKpiVariableSchema(name='string', value=4, group_type=<KPIGroup.RATE: 'RATE'>, references='string') nok_minor=CreateKpiVariableSchema(name='string', value=2, group_type=<KPIGroup.RATE: 'RATE'>, references='string') not_rated=CreateKpiVariableSchema(name='string', value=1, group_type=<KPIGroup.RATE: 'RATE'>, references='string') to_be_rated=CreateKpiVariableSchema(name='string', value=0, group_type=<KPIGroup.RATE: 'RATE'>, references='string') procedure=CreateProcedureSchema(reference='string', revision='string', status='string') comment=CreateCommentSchema(info=7, warning=2, error=1) bench=CreateBenchSchema(reference='DSB-05')
+2025-07-08 - 12:11:00,251 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.1170s
+2025-07-08 - 12:11:00,473 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:15:19,078 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: POST http://localhost:8000/procedure-service/procedure-digitaliaztion/post
+2025-07-08 - 12:15:19,083 - HIL_SYNTHESIS - PROCEDURE_DIGITALIZATION_CONTROLLER - INFO - Action - creating procedure digitalization : total_testruns_digitalized=CreateKpiVariableSchema(name='string', value=124, group_type=<KPIGroup.DIGI: 'DIGI'>, references='string') total_AC_digitalized=CreateKpiVariableSchema(name='string', value=96, group_type=<KPIGroup.DIGI: 'DIGI'>, references='string') total_ER_digitalized=CreateKpiVariableSchema(name='string', value=15, group_type=<KPIGroup.DIGI: 'DIGI'>, references='string') total_IC_digitalized=CreateKpiVariableSchema(name='string', value=8, group_type=<KPIGroup.DIGI: 'DIGI'>, references='string') total_CO_digitalized=CreateKpiVariableSchema(name='string', value=5, group_type=<KPIGroup.DIGI: 'DIGI'>, references='string') procedure=CreateProcedureSchema(reference='string', revision='string', status='string') comment=CreateCommentSchema(info=9, warning=4, error=0)
+2025-07-08 - 12:15:19,097 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=124 group_type=<KPIGroup.DIGI: 'DIGI'> references='string'
+2025-07-08 - 12:15:19,106 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=96 group_type=<KPIGroup.DIGI: 'DIGI'> references='string'
+2025-07-08 - 12:15:19,112 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=15 group_type=<KPIGroup.DIGI: 'DIGI'> references='string'
+2025-07-08 - 12:15:19,121 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=8 group_type=<KPIGroup.DIGI: 'DIGI'> references='string'
+2025-07-08 - 12:15:19,128 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=5 group_type=<KPIGroup.DIGI: 'DIGI'> references='string'
+2025-07-08 - 12:15:19,135 - HIL_SYNTHESIS - COMMENT_SERVICE - INFO - Action - Created comment : info=9 warning=4 error=0
+2025-07-08 - 12:15:19,161 - HIL_SYNTHESIS - PROCEDURE_DIGITALIZATION_SERVICE - INFO - Action - created one procedure digitalization : total_testruns_digitalized=CreateKpiVariableSchema(name='string', value=124, group_type=<KPIGroup.DIGI: 'DIGI'>, references='string') total_AC_digitalized=CreateKpiVariableSchema(name='string', value=96, group_type=<KPIGroup.DIGI: 'DIGI'>, references='string') total_ER_digitalized=CreateKpiVariableSchema(name='string', value=15, group_type=<KPIGroup.DIGI: 'DIGI'>, references='string') total_IC_digitalized=CreateKpiVariableSchema(name='string', value=8, group_type=<KPIGroup.DIGI: 'DIGI'>, references='string') total_CO_digitalized=CreateKpiVariableSchema(name='string', value=5, group_type=<KPIGroup.DIGI: 'DIGI'>, references='string') procedure=CreateProcedureSchema(reference='string', revision='string', status='string') comment=CreateCommentSchema(info=9, warning=4, error=0)
+2025-07-08 - 12:15:19,177 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0966s
+2025-07-08 - 12:15:19,393 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:17:06,703 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: POST http://localhost:8000/procedure-service/procedure-definition/post
+2025-07-08 - 12:17:06,705 - HIL_SYNTHESIS - PROCEDURE_DEFINITION_CONTROLLER - INFO - Action - creating procedure definition : total_testruns=CreateKpiVariableSchema(name='string', value=364, group_type=<KPIGroup.DEFINE: 'DEFINE'>, references='string') total_empty_testruns=CreateKpiVariableSchema(name='string', value=180, group_type=<KPIGroup.DEFINE: 'DEFINE'>, references='string') total_steps=CreateKpiVariableSchema(name='string', value=137, group_type=<KPIGroup.DEFINE: 'DEFINE'>, references='string') total_AC=CreateKpiVariableSchema(name='string', value=85, group_type=<KPIGroup.DEFINE: 'DEFINE'>, references='string') total_CO=CreateKpiVariableSchema(name='string', value=18, group_type=<KPIGroup.DEFINE: 'DEFINE'>, references='string') total_ER=CreateKpiVariableSchema(name='string', value=34, group_type=<KPIGroup.DEFINE: 'DEFINE'>, references='string') procedure=CreateProcedureSchema(reference='string', revision='string', status='string') comment=CreateCommentSchema(info=22, warning=6, error=6)
+2025-07-08 - 12:17:06,724 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=364 group_type=<KPIGroup.DEFINE: 'DEFINE'> references='string'
+2025-07-08 - 12:17:06,734 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=180 group_type=<KPIGroup.DEFINE: 'DEFINE'> references='string'
+2025-07-08 - 12:17:06,741 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=137 group_type=<KPIGroup.DEFINE: 'DEFINE'> references='string'
+2025-07-08 - 12:17:06,750 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=85 group_type=<KPIGroup.DEFINE: 'DEFINE'> references='string'
+2025-07-08 - 12:17:06,756 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=18 group_type=<KPIGroup.DEFINE: 'DEFINE'> references='string'
+2025-07-08 - 12:17:06,762 - HIL_SYNTHESIS - KPI_VARIABLE_SERVICE - INFO - Action - Created kpi_variable : name='string' value=34 group_type=<KPIGroup.DEFINE: 'DEFINE'> references='string'
+2025-07-08 - 12:17:06,771 - HIL_SYNTHESIS - COMMENT_SERVICE - INFO - Action - Created comment : info=22 warning=6 error=6
+2025-07-08 - 12:17:06,877 - HIL_SYNTHESIS - PROCEDURE_DEFINITION_SERVICE - INFO - Action - created one procedure definition : total_testruns=CreateKpiVariableSchema(name='string', value=364, group_type=<KPIGroup.DEFINE: 'DEFINE'>, references='string') total_empty_testruns=CreateKpiVariableSchema(name='string', value=180, group_type=<KPIGroup.DEFINE: 'DEFINE'>, references='string') total_steps=CreateKpiVariableSchema(name='string', value=137, group_type=<KPIGroup.DEFINE: 'DEFINE'>, references='string') total_AC=CreateKpiVariableSchema(name='string', value=85, group_type=<KPIGroup.DEFINE: 'DEFINE'>, references='string') total_CO=CreateKpiVariableSchema(name='string', value=18, group_type=<KPIGroup.DEFINE: 'DEFINE'>, references='string') total_ER=CreateKpiVariableSchema(name='string', value=34, group_type=<KPIGroup.DEFINE: 'DEFINE'>, references='string') procedure=CreateProcedureSchema(reference='string', revision='string', status='string') comment=CreateCommentSchema(info=22, warning=6, error=6)
+2025-07-08 - 12:17:06,894 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.1899s
+2025-07-08 - 12:17:06,907 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:50:22,601 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/procedure-definition/multiple_procedure_ddefinition/get/string/string?page=1&size=10
+2025-07-08 - 12:50:22,616 - HIL_SYNTHESIS - PROCEDURE_DEFINITION_CONTROLLER - INFO - Action - Getting one procedure definition
+2025-07-08 - 12:50:22,640 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0325s
+2025-07-08 - 12:50:22,666 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:53:56,009 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/procedure-digitaliaztion/multiple_procedure_digitalization/get/string/string?page=1&size=10
+2025-07-08 - 12:53:56,012 - HIL_SYNTHESIS - PROCEDURE_DIGITALIZATION_CONTROLLER - INFO - Action - Getting one procedure digitalization
+2025-07-08 - 12:53:56,034 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0254s
+2025-07-08 - 12:53:56,160 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:53:58,046 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/procedure-digitaliaztion/multiple_procedure_digitalization/get/string/string?page=1&size=10
+2025-07-08 - 12:53:58,049 - HIL_SYNTHESIS - PROCEDURE_DIGITALIZATION_CONTROLLER - INFO - Action - Getting one procedure digitalization
+2025-07-08 - 12:53:58,070 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0236s
+2025-07-08 - 12:53:58,322 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:55:11,493 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/procedure-correlation/multiple_procedure_correlation/get/string/string/DSB-05?page=1&size=10
+2025-07-08 - 12:55:11,498 - HIL_SYNTHESIS - PROCEDURE_CORRELATION_CONTROLLER - INFO - Action - Getting one procedure correlation
+2025-07-08 - 12:55:11,537 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0437s
+2025-07-08 - 12:55:11,859 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:55:52,568 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/procedure-rating/multiple_procedure_rating/get/string/string/DSB-05?page=1&size=10
+2025-07-08 - 12:55:52,571 - HIL_SYNTHESIS - PROCEDURE_RATING_CONTROLLER - INFO - Action - Getting one procedure correlation
+2025-07-08 - 12:55:52,599 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0304s
+2025-07-08 - 12:55:52,869 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:58:04,785 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/procedure/get?page=1&size=10
+2025-07-08 - 12:58:04,788 - HIL_SYNTHESIS - PROCEDURE_CONTROLLER - INFO - Action - Getting all procedures
+2025-07-08 - 12:58:04,800 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0140s
+2025-07-08 - 12:58:05,177 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:58:05,529 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:58:34,848 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/bench-service/bench/get?page=1&size=10
+2025-07-08 - 12:58:34,850 - HIL_SYNTHESIS - BENCH_CONTROLLER - INFO - Action - Getting all benches
+2025-07-08 - 12:58:34,857 - HIL_SYNTHESIS - BENCH_SERVICE - INFO - Action - Getting all benches
+2025-07-08 - 12:58:34,859 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0105s
+2025-07-08 - 12:58:35,219 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:58:35,570 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 12:59:52,286 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/comment-service/comment/get?page=1&size=10
+2025-07-08 - 12:59:52,300 - HIL_SYNTHESIS - COMMENT_CONTROLLER - INFO - Action - Getting all comments
+2025-07-08 - 12:59:52,314 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0279s
+2025-07-08 - 12:59:52,389 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 13:00:23,208 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/kpi-variable-service/kpi_variable/get?page=1&size=10
+2025-07-08 - 13:00:23,210 - HIL_SYNTHESIS - KPI_VARIABLE_CONTROLLER - INFO - Action - Getting all kpi_variables
+2025-07-08 - 13:00:23,221 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0132s
+2025-07-08 - 13:00:23,354 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 13:01:29,828 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/context/get?context=DEFINITION
+2025-07-08 - 13:01:29,829 - HIL_SYNTHESIS - src.modules.domain.procedure.controllers.procedure_context_controller - INFO - context call
+2025-07-08 - 13:01:29,841 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0121s
+2025-07-08 - 13:01:29,892 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 13:05:35,316 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/context/get?context=DIGITALIZATION
+2025-07-08 - 13:05:35,319 - HIL_SYNTHESIS - src.modules.domain.procedure.controllers.procedure_context_controller - INFO - context call
+2025-07-08 - 13:05:35,334 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0171s
+2025-07-08 - 13:05:35,508 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-08 - 13:05:58,179 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/context/get?context=CORRELATION
+2025-07-08 - 13:05:58,180 - HIL_SYNTHESIS - src.modules.domain.procedure.controllers.procedure_context_controller - INFO - context call
+2025-07-08 - 13:05:58,190 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0105s
+2025-07-08 - 13:05:58,276 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-09 - 14:54:35,561 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/kpi-variable-service/kpi_variable/get?page=1&size=10
+2025-07-09 - 14:54:35,666 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-09 - 14:54:35,694 - HIL_SYNTHESIS - KPI_VARIABLE_CONTROLLER - INFO - Action - Getting all kpi_variables
+2025-07-09 - 14:54:35,822 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.2451s
+2025-07-09 - 14:54:56,135 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/procedure-definition/multiple_procedure_ddefinition/get/string/string?page=1&size=10
+2025-07-09 - 14:54:56,173 - HIL_SYNTHESIS - PROCEDURE_DEFINITION_CONTROLLER - INFO - Action - Getting one procedure definition
+2025-07-09 - 14:54:56,265 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.1292s
+2025-07-09 - 14:54:56,337 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-09 - 14:55:49,074 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/kpi-variable-service/kpi_variable/get?page=1&size=100
+2025-07-09 - 14:55:49,082 - HIL_SYNTHESIS - KPI_VARIABLE_CONTROLLER - INFO - Action - Getting all kpi_variables
+2025-07-09 - 14:55:49,097 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0220s
+2025-07-09 - 14:55:49,438 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-09 - 14:55:51,659 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/kpi-variable-service/kpi_variable/get?page=1&size=100
+2025-07-09 - 14:55:51,662 - HIL_SYNTHESIS - KPI_VARIABLE_CONTROLLER - INFO - Action - Getting all kpi_variables
+2025-07-09 - 14:55:51,671 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0115s
+2025-07-09 - 14:55:51,855 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-09 - 14:57:04,781 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: POST http://localhost:8000/procedure-service/procedure/post
+2025-07-09 - 14:57:04,808 - HIL_SYNTHESIS - PROCEDURE_CONTROLLER - INFO - Action - creating procedure : reference='TES-00000002' revision='14' status='done'
+2025-07-09 - 14:57:04,918 - HIL_SYNTHESIS - PROCEDURE_SERVICE - INFO - Action - created one procedure : reference='TES-00000002' revision='14' status='done'
+2025-07-09 - 14:57:04,923 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.1407s
+2025-07-09 - 14:57:05,103 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-09 - 14:57:05,455 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-09 - 14:58:30,010 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: POST http://localhost:8000/procedure-service/procedure-definition/post
+2025-07-09 - 14:58:30,044 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 422 - Processed in 0.0330s
+2025-07-09 - 14:58:30,258 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-09 - 14:59:23,385 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/procedure/get?page=1&size=100
+2025-07-09 - 14:59:23,398 - HIL_SYNTHESIS - PROCEDURE_CONTROLLER - INFO - Action - Getting all procedures
+2025-07-09 - 14:59:23,409 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0233s
+2025-07-09 - 14:59:23,445 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-09 - 14:59:46,877 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: POST http://localhost:8000/procedure-service/procedure-definition/post
+2025-07-09 - 14:59:46,903 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 422 - Processed in 0.0255s
+2025-07-09 - 14:59:47,169 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-09 - 14:59:47,522 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-15 - 10:28:15,976 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/procedure/get?page=1&size=100
+2025-07-15 - 10:28:16,171 - HIL_SYNTHESIS - PROCEDURE_CONTROLLER - INFO - Action - Getting all procedures
+2025-07-15 - 10:28:16,379 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.3787s
+2025-07-15 - 10:28:16,399 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-15 - 11:05:25,613 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/bench-service/bench/get?page=1&size=10
+2025-07-15 - 11:05:25,690 - HIL_SYNTHESIS - BENCH_CONTROLLER - INFO - Action - Getting all benches
+2025-07-15 - 11:05:25,809 - HIL_SYNTHESIS - BENCH_SERVICE - INFO - Action - Getting all benches
+2025-07-15 - 11:05:25,837 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.2133s
+2025-07-15 - 11:05:25,935 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-15 - 11:05:31,115 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/bench-service/bench/get?page=1&size=10
+2025-07-15 - 11:05:31,118 - HIL_SYNTHESIS - BENCH_CONTROLLER - INFO - Action - Getting all benches
+2025-07-15 - 11:05:31,123 - HIL_SYNTHESIS - BENCH_SERVICE - INFO - Action - Getting all benches
+2025-07-15 - 11:05:31,126 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0112s
+2025-07-15 - 11:05:31,580 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-15 - 11:05:44,285 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/procedure-correlation/multiple_procedure_correlation/get/string/string/DSB-05?page=1&size=10
+2025-07-15 - 11:05:44,334 - HIL_SYNTHESIS - PROCEDURE_CORRELATION_CONTROLLER - INFO - Action - Getting one procedure correlation
+2025-07-15 - 11:05:44,435 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-15 - 11:05:44,442 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.1571s
+2025-07-15 - 12:57:21,459 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/procedure-service/procedure/get?size=100
+2025-07-15 - 12:57:21,634 - HIL_SYNTHESIS - PROCEDURE_CONTROLLER - INFO - Action - Getting all procedures
+2025-07-15 - 12:57:21,713 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected
+2025-07-15 - 12:57:21,774 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.2984s
+2025-07-15 - 13:04:55,490 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Request: GET http://localhost:8000/bench-service/bench/get?size=10
+2025-07-15 - 13:04:55,507 - HIL_SYNTHESIS - BENCH_CONTROLLER - INFO - Action - Getting all benches
+2025-07-15 - 13:04:55,546 - HIL_SYNTHESIS - BENCH_SERVICE - INFO - Action - Getting all benches
+2025-07-15 - 13:04:55,553 - HIL_SYNTHESIS - hil_fastapi_utils.middlewares.logging_middleware - INFO - Response: 200 - Processed in 0.0617s
+2025-07-15 - 13:04:55,869 - HIL_SYNTHESIS - watchfiles.main - INFO - 1 change detected

@@ -1,0 +1,940 @@
+[
+  {
+    "id": "01985b6b-1eeb-77b8-bd65-ec2c097991c4",
+    "created_at": "2025-07-30T13:00:03.691711+00:00",
+    "updated_at": "2025-07-30T13:00:03.691711+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985b6b-1ed3-7e7f-abad-da39055baa75",
+      "created_at": "2025-07-30T13:00:03.667059+00:00",
+      "updated_at": "2025-07-30T13:00:03.667059+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 163,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985b6b-1ed7-7607-a71d-b69ec151a725",
+      "created_at": "2025-07-30T13:00:03.671177+00:00",
+      "updated_at": "2025-07-30T13:00:03.671177+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985b6b-1edb-7f14-bd21-a0068d4d47ef",
+      "created_at": "2025-07-30T13:00:03.675554+00:00",
+      "updated_at": "2025-07-30T13:00:03.675554+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985b6b-1edf-7b1a-b461-a1a0f73a5d9d",
+      "created_at": "2025-07-30T13:00:03.679840+00:00",
+      "updated_at": "2025-07-30T13:00:03.679840+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985b6b-1ee4-794a-9a75-0088808d7766",
+      "created_at": "2025-07-30T13:00:03.683975+00:00",
+      "updated_at": "2025-07-30T13:00:03.683975+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985b6a-fb1b-7219-944d-6f90ffbdc14d",
+      "created_at": "2025-07-30T12:59:54.523016+00:00",
+      "updated_at": "2025-07-30T12:59:54.523016+00:00",
+      "reference": "TES-00000146",
+      "revision": "7",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-1ee8-70df-9209-44d527483e65",
+      "created_at": "2025-07-30T13:00:03.687959+00:00",
+      "updated_at": "2025-07-30T13:00:03.687959+00:00",
+      "info": 1,
+      "warning": 990,
+      "error": 1
+    },
+    "document_type": "procedure_digitalization"
+  },
+  {
+    "id": "01985b6b-1e30-7c22-999f-7aa1e9df701c",
+    "created_at": "2025-07-30T13:00:03.504351+00:00",
+    "updated_at": "2025-07-30T13:00:03.504351+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985b6b-1e13-7d93-8e57-ed974b662ac9",
+      "created_at": "2025-07-30T13:00:03.475387+00:00",
+      "updated_at": "2025-07-30T13:00:03.475387+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 96,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985b6b-1e18-7524-83a5-6685287ee44d",
+      "created_at": "2025-07-30T13:00:03.480791+00:00",
+      "updated_at": "2025-07-30T13:00:03.480791+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985b6b-1e1d-708f-be4d-7e9280ba740a",
+      "created_at": "2025-07-30T13:00:03.485634+00:00",
+      "updated_at": "2025-07-30T13:00:03.485634+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985b6b-1e23-77f0-93fa-60ee3e3b0c71",
+      "created_at": "2025-07-30T13:00:03.490928+00:00",
+      "updated_at": "2025-07-30T13:00:03.490928+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985b6b-1e27-72c2-8abf-676b22d589ab",
+      "created_at": "2025-07-30T13:00:03.495713+00:00",
+      "updated_at": "2025-07-30T13:00:03.495713+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985b6a-fa61-724e-9ab3-e686c0d0d4bc",
+      "created_at": "2025-07-30T12:59:54.337832+00:00",
+      "updated_at": "2025-07-30T12:59:54.337832+00:00",
+      "reference": "TES-00000146",
+      "revision": "6",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-1e2c-7f14-978a-255f60638412",
+      "created_at": "2025-07-30T13:00:03.500144+00:00",
+      "updated_at": "2025-07-30T13:00:03.500144+00:00",
+      "info": 1,
+      "warning": 1308,
+      "error": 1
+    },
+    "document_type": "procedure_digitalization"
+  },
+  {
+    "id": "01985b6b-25e4-79b1-91b3-83c54943c179",
+    "created_at": "2025-07-30T13:00:05.476338+00:00",
+    "updated_at": "2025-07-30T13:00:05.476338+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985b6b-25cb-7235-80de-37b047ce6a01",
+      "created_at": "2025-07-30T13:00:05.451257+00:00",
+      "updated_at": "2025-07-30T13:00:05.451257+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 7,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985b6b-25d0-7313-990a-ccda72d05ae2",
+      "created_at": "2025-07-30T13:00:05.456082+00:00",
+      "updated_at": "2025-07-30T13:00:05.456082+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985b6b-25d4-7d93-bd1b-3586872f9119",
+      "created_at": "2025-07-30T13:00:05.460682+00:00",
+      "updated_at": "2025-07-30T13:00:05.460682+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985b6b-25d8-75b0-9eef-3f8af115a156",
+      "created_at": "2025-07-30T13:00:05.464847+00:00",
+      "updated_at": "2025-07-30T13:00:05.464847+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985b6b-25dd-79e9-90e2-6e31f71c2b31",
+      "created_at": "2025-07-30T13:00:05.468985+00:00",
+      "updated_at": "2025-07-30T13:00:05.468985+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985b6b-026e-7a53-86a1-b43bae3688a3",
+      "created_at": "2025-07-30T12:59:56.398559+00:00",
+      "updated_at": "2025-07-30T12:59:56.398559+00:00",
+      "reference": "TES-00006238",
+      "revision": "10",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-25e0-76e7-a8da-0dda2fcaeef1",
+      "created_at": "2025-07-30T13:00:05.472624+00:00",
+      "updated_at": "2025-07-30T13:00:05.472624+00:00",
+      "info": 0,
+      "warning": 59,
+      "error": 1
+    },
+    "document_type": "procedure_digitalization"
+  },
+  {
+    "id": "01985854-6e94-76f3-829e-e211e72f4dd2",
+    "created_at": "2025-07-29T22:36:25.108789+00:00",
+    "updated_at": "2025-07-29T22:36:25.108789+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985854-6e7c-7cd0-8734-36e27ccfd897",
+      "created_at": "2025-07-29T22:36:25.084869+00:00",
+      "updated_at": "2025-07-29T22:36:25.084869+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 164,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985854-6e81-7f03-889a-fbf332146984",
+      "created_at": "2025-07-29T22:36:25.089154+00:00",
+      "updated_at": "2025-07-29T22:36:25.089154+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985854-6e85-7b2f-8f54-801eb9208adf",
+      "created_at": "2025-07-29T22:36:25.093005+00:00",
+      "updated_at": "2025-07-29T22:36:25.093005+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985854-6e88-710f-b6a1-66d3560a803c",
+      "created_at": "2025-07-29T22:36:25.096792+00:00",
+      "updated_at": "2025-07-29T22:36:25.096792+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985854-6e8c-7ad3-b794-c5aebfabd69d",
+      "created_at": "2025-07-29T22:36:25.100808+00:00",
+      "updated_at": "2025-07-29T22:36:25.100808+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7c4d-752e-a4a4-c7e4b812c7a8",
+      "created_at": "2025-07-29T22:34:17.549686+00:00",
+      "updated_at": "2025-07-29T22:34:17.549686+00:00",
+      "reference": "TES-00000146",
+      "revision": "9",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985854-6e91-75e3-b97b-7f4198f42c85",
+      "created_at": "2025-07-29T22:36:25.105001+00:00",
+      "updated_at": "2025-07-29T22:36:25.105001+00:00",
+      "info": 1,
+      "warning": 1074,
+      "error": 7
+    },
+    "document_type": "procedure_digitalization"
+  },
+  {
+    "id": "01985b6b-2051-7a8a-bc99-da492af99422",
+    "created_at": "2025-07-30T13:00:04.048981+00:00",
+    "updated_at": "2025-07-30T13:00:04.048981+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985b6b-2038-792c-841b-dfd243f25b89",
+      "created_at": "2025-07-30T13:00:04.024516+00:00",
+      "updated_at": "2025-07-30T13:00:04.024516+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 164,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985b6b-203c-70de-a630-0eb1f872830e",
+      "created_at": "2025-07-30T13:00:04.028856+00:00",
+      "updated_at": "2025-07-30T13:00:04.028856+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985b6b-2040-7771-af3f-01417b118d9b",
+      "created_at": "2025-07-30T13:00:04.032873+00:00",
+      "updated_at": "2025-07-30T13:00:04.032873+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985b6b-2044-7831-ba64-62d1c4a82630",
+      "created_at": "2025-07-30T13:00:04.036638+00:00",
+      "updated_at": "2025-07-30T13:00:04.036638+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985b6b-2049-7d85-9d79-24abe1de9f76",
+      "created_at": "2025-07-30T13:00:04.040993+00:00",
+      "updated_at": "2025-07-30T13:00:04.040993+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7c4d-752e-a4a4-c7e4b812c7a8",
+      "created_at": "2025-07-29T22:34:17.549686+00:00",
+      "updated_at": "2025-07-29T22:34:17.549686+00:00",
+      "reference": "TES-00000146",
+      "revision": "9",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-204d-7957-a8aa-72d24d6b4468",
+      "created_at": "2025-07-30T13:00:04.045082+00:00",
+      "updated_at": "2025-07-30T13:00:04.045082+00:00",
+      "info": 1,
+      "warning": 1074,
+      "error": 7
+    },
+    "document_type": "procedure_digitalization"
+  },
+  {
+    "id": "01985854-71e0-74a0-83f5-6841f768890b",
+    "created_at": "2025-07-29T22:36:25.952041+00:00",
+    "updated_at": "2025-07-29T22:36:25.952041+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985854-71c5-7e5c-8294-9d8f077fe647",
+      "created_at": "2025-07-29T22:36:25.925489+00:00",
+      "updated_at": "2025-07-29T22:36:25.925489+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 86,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985854-71ca-74da-9604-baa177acf6b0",
+      "created_at": "2025-07-29T22:36:25.930615+00:00",
+      "updated_at": "2025-07-29T22:36:25.930615+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985854-71ce-739c-9334-14eafa3b3ae8",
+      "created_at": "2025-07-29T22:36:25.934899+00:00",
+      "updated_at": "2025-07-29T22:36:25.934899+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985854-71d3-7fe1-9aa7-390119e7bcc6",
+      "created_at": "2025-07-29T22:36:25.939255+00:00",
+      "updated_at": "2025-07-29T22:36:25.939255+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985854-71d7-7951-8a32-5d8f14ac9ad1",
+      "created_at": "2025-07-29T22:36:25.943819+00:00",
+      "updated_at": "2025-07-29T22:36:25.943819+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7fd4-7498-ae28-137340ea0bfd",
+      "created_at": "2025-07-29T22:34:18.452266+00:00",
+      "updated_at": "2025-07-29T22:34:18.452266+00:00",
+      "reference": "TES-00005864",
+      "revision": "2",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985854-71db-7f48-8ad7-286a3cafc932",
+      "created_at": "2025-07-29T22:36:25.947891+00:00",
+      "updated_at": "2025-07-29T22:36:25.947891+00:00",
+      "info": 0,
+      "warning": 2,
+      "error": 1
+    },
+    "document_type": "procedure_digitalization"
+  },
+  {
+    "id": "01985b6b-309d-7fcc-8b36-d59334385a6c",
+    "created_at": "2025-07-30T13:00:08.220932+00:00",
+    "updated_at": "2025-07-30T13:00:08.220932+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985b6b-3083-7064-a655-c0e5416a9bc8",
+      "created_at": "2025-07-30T13:00:08.194972+00:00",
+      "updated_at": "2025-07-30T13:00:08.194972+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 86,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985b6b-3087-794a-9024-2047232c791f",
+      "created_at": "2025-07-30T13:00:08.199667+00:00",
+      "updated_at": "2025-07-30T13:00:08.199667+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985b6b-308c-7a23-ab32-3493c614532b",
+      "created_at": "2025-07-30T13:00:08.204023+00:00",
+      "updated_at": "2025-07-30T13:00:08.204023+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985b6b-3090-79ec-b125-4bb1615ad209",
+      "created_at": "2025-07-30T13:00:08.208750+00:00",
+      "updated_at": "2025-07-30T13:00:08.208750+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985b6b-3095-7189-9d09-75ddc84e5f5f",
+      "created_at": "2025-07-30T13:00:08.212984+00:00",
+      "updated_at": "2025-07-30T13:00:08.212984+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7fd4-7498-ae28-137340ea0bfd",
+      "created_at": "2025-07-29T22:34:18.452266+00:00",
+      "updated_at": "2025-07-29T22:34:18.452266+00:00",
+      "reference": "TES-00005864",
+      "revision": "2",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-3098-7dff-bbd6-71cfa75d5932",
+      "created_at": "2025-07-30T13:00:08.216853+00:00",
+      "updated_at": "2025-07-30T13:00:08.216853+00:00",
+      "info": 0,
+      "warning": 2,
+      "error": 1
+    },
+    "document_type": "procedure_digitalization"
+  },
+  {
+    "id": "01985854-69d1-70e9-b8bb-506c8d7ccc9c",
+    "created_at": "2025-07-29T22:36:23.889848+00:00",
+    "updated_at": "2025-07-29T22:36:23.889848+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985854-69ba-7c21-bc0a-ff8d46d45089",
+      "created_at": "2025-07-29T22:36:23.866743+00:00",
+      "updated_at": "2025-07-29T22:36:23.866743+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 192,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985854-69bf-7012-bcb7-ea101c487c87",
+      "created_at": "2025-07-29T22:36:23.871116+00:00",
+      "updated_at": "2025-07-29T22:36:23.871116+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985854-69c2-7551-9416-df6fd52c483f",
+      "created_at": "2025-07-29T22:36:23.874911+00:00",
+      "updated_at": "2025-07-29T22:36:23.874911+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985854-69c6-77bd-a0ed-587955f879e1",
+      "created_at": "2025-07-29T22:36:23.878698+00:00",
+      "updated_at": "2025-07-29T22:36:23.878698+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985854-69ca-7db1-b7c6-6e03b73587f7",
+      "created_at": "2025-07-29T22:36:23.882465+00:00",
+      "updated_at": "2025-07-29T22:36:23.882465+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7743-7701-af23-d80b5564609a",
+      "created_at": "2025-07-29T22:34:16.259806+00:00",
+      "updated_at": "2025-07-29T22:34:16.259806+00:00",
+      "reference": "TES-00001046",
+      "revision": "4",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985854-69ce-7161-81ba-70c4d655ba87",
+      "created_at": "2025-07-29T22:36:23.886047+00:00",
+      "updated_at": "2025-07-29T22:36:23.886047+00:00",
+      "info": 9,
+      "warning": 97,
+      "error": 10
+    },
+    "document_type": "procedure_digitalization"
+  },
+  {
+    "id": "01985b6b-2f4a-7bc5-8034-4e85faa04bf8",
+    "created_at": "2025-07-30T13:00:07.882734+00:00",
+    "updated_at": "2025-07-30T13:00:07.882734+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985b6b-2f32-7b30-874c-ebc1e18c6cd6",
+      "created_at": "2025-07-30T13:00:07.858854+00:00",
+      "updated_at": "2025-07-30T13:00:07.858854+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 174,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985b6b-2f37-710d-a6f0-50c52958ef09",
+      "created_at": "2025-07-30T13:00:07.863528+00:00",
+      "updated_at": "2025-07-30T13:00:07.863528+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985b6b-2f3b-799d-989f-386a62b64234",
+      "created_at": "2025-07-30T13:00:07.867717+00:00",
+      "updated_at": "2025-07-30T13:00:07.867717+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985b6b-2f3f-7a79-a177-ff7275dd5dd1",
+      "created_at": "2025-07-30T13:00:07.871634+00:00",
+      "updated_at": "2025-07-30T13:00:07.871634+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985b6b-2f43-7889-a74d-a3c7f0cb7e29",
+      "created_at": "2025-07-30T13:00:07.875431+00:00",
+      "updated_at": "2025-07-30T13:00:07.875431+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-7743-7701-af23-d80b5564609a",
+      "created_at": "2025-07-29T22:34:16.259806+00:00",
+      "updated_at": "2025-07-29T22:34:16.259806+00:00",
+      "reference": "TES-00001046",
+      "revision": "4",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-2f47-7679-b409-c83f84a353e8",
+      "created_at": "2025-07-30T13:00:07.879079+00:00",
+      "updated_at": "2025-07-30T13:00:07.879079+00:00",
+      "info": 1,
+      "warning": 71,
+      "error": 10
+    },
+    "document_type": "procedure_digitalization"
+  },
+  {
+    "id": "01985b6b-232a-7dea-a527-4ba0d537dc9b",
+    "created_at": "2025-07-30T13:00:04.778307+00:00",
+    "updated_at": "2025-07-30T13:00:04.778307+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985b6b-2310-7209-b257-8526797ca065",
+      "created_at": "2025-07-30T13:00:04.752672+00:00",
+      "updated_at": "2025-07-30T13:00:04.752672+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 38,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985b6b-2315-7828-a41c-d54728ff7d10",
+      "created_at": "2025-07-30T13:00:04.757649+00:00",
+      "updated_at": "2025-07-30T13:00:04.757649+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985b6b-231a-70d5-82c2-4de643bdf3bd",
+      "created_at": "2025-07-30T13:00:04.762064+00:00",
+      "updated_at": "2025-07-30T13:00:04.762064+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985b6b-231e-7d38-872f-5dcbd2573187",
+      "created_at": "2025-07-30T13:00:04.766302+00:00",
+      "updated_at": "2025-07-30T13:00:04.766302+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985b6b-2322-708e-8a18-1cfc6ea0e9ba",
+      "created_at": "2025-07-30T13:00:04.770723+00:00",
+      "updated_at": "2025-07-30T13:00:04.770723+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985b6a-ff9f-7070-bb00-c45971e615ab",
+      "created_at": "2025-07-30T12:59:55.679056+00:00",
+      "updated_at": "2025-07-30T12:59:55.679056+00:00",
+      "reference": "TES-00006237",
+      "revision": "5",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-2326-73f5-9127-1d773af311a1",
+      "created_at": "2025-07-30T13:00:04.774637+00:00",
+      "updated_at": "2025-07-30T13:00:04.774637+00:00",
+      "info": 2,
+      "warning": 220,
+      "error": 3
+    },
+    "document_type": "procedure_digitalization"
+  },
+  {
+    "id": "01985b6b-27e2-780e-8691-1b46f8b61d26",
+    "created_at": "2025-07-30T13:00:05.986743+00:00",
+    "updated_at": "2025-07-30T13:00:05.986743+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985b6b-27cb-7aae-be73-1f71f65e59cf",
+      "created_at": "2025-07-30T13:00:05.963400+00:00",
+      "updated_at": "2025-07-30T13:00:05.963400+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 3,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985b6b-27cf-7bae-b58e-2a910ec62d98",
+      "created_at": "2025-07-30T13:00:05.967667+00:00",
+      "updated_at": "2025-07-30T13:00:05.967667+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985b6b-27d3-7a57-92a4-8dcefe2d5b5b",
+      "created_at": "2025-07-30T13:00:05.971418+00:00",
+      "updated_at": "2025-07-30T13:00:05.971418+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985b6b-27d7-7907-b73e-0a19dc2a2126",
+      "created_at": "2025-07-30T13:00:05.975207+00:00",
+      "updated_at": "2025-07-30T13:00:05.975207+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985b6b-27da-7c78-bb8f-efd20d3549bc",
+      "created_at": "2025-07-30T13:00:05.978915+00:00",
+      "updated_at": "2025-07-30T13:00:05.978915+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985b6b-0494-7c1a-bb6c-c8bab1ec46d8",
+      "created_at": "2025-07-30T12:59:56.948196+00:00",
+      "updated_at": "2025-07-30T12:59:56.948196+00:00",
+      "reference": "TES-00007683",
+      "revision": "3",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-27de-7864-b3d1-9554c9887d9c",
+      "created_at": "2025-07-30T13:00:05.982593+00:00",
+      "updated_at": "2025-07-30T13:00:05.982593+00:00",
+      "info": 0,
+      "warning": 26,
+      "error": 1
+    },
+    "document_type": "procedure_digitalization"
+  },
+  {
+    "id": "01985854-6c36-7809-ae36-c446a1353a88",
+    "created_at": "2025-07-29T22:36:24.502665+00:00",
+    "updated_at": "2025-07-29T22:36:24.502665+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985854-6c17-7b54-9e2e-94f5b400085b",
+      "created_at": "2025-07-29T22:36:24.471208+00:00",
+      "updated_at": "2025-07-29T22:36:24.471208+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 11,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985854-6c1c-7414-9115-3177fad5140a",
+      "created_at": "2025-07-29T22:36:24.476299+00:00",
+      "updated_at": "2025-07-29T22:36:24.476299+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985854-6c21-7dd4-b485-3524f1f8307f",
+      "created_at": "2025-07-29T22:36:24.481032+00:00",
+      "updated_at": "2025-07-29T22:36:24.481032+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985854-6c26-7a66-8d7f-c8651ef55eff",
+      "created_at": "2025-07-29T22:36:24.486471+00:00",
+      "updated_at": "2025-07-29T22:36:24.486471+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985854-6c2b-7cc6-b66f-72b187fcd62d",
+      "created_at": "2025-07-29T22:36:24.491160+00:00",
+      "updated_at": "2025-07-29T22:36:24.491160+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-79da-7ff1-b6e6-6152ac275ed9",
+      "created_at": "2025-07-29T22:34:16.922137+00:00",
+      "updated_at": "2025-07-29T22:34:16.922137+00:00",
+      "reference": "TES-00011553",
+      "revision": "2",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985854-6c2f-727f-a15e-68f591f5412d",
+      "created_at": "2025-07-29T22:36:24.495356+00:00",
+      "updated_at": "2025-07-29T22:36:24.495356+00:00",
+      "info": 0,
+      "warning": 59,
+      "error": 1
+    },
+    "document_type": "procedure_digitalization"
+  },
+  {
+    "id": "01985b6b-35fc-7f88-96c9-e998544064df",
+    "created_at": "2025-07-30T13:00:09.595940+00:00",
+    "updated_at": "2025-07-30T13:00:09.595940+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985b6b-35de-7602-a9d3-0979cc08577b",
+      "created_at": "2025-07-30T13:00:09.566745+00:00",
+      "updated_at": "2025-07-30T13:00:09.566745+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 11,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985b6b-35e6-73d4-a48d-6f10573bd9c5",
+      "created_at": "2025-07-30T13:00:09.574675+00:00",
+      "updated_at": "2025-07-30T13:00:09.574675+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985b6b-35eb-7461-a6f4-2bf2fea46ef5",
+      "created_at": "2025-07-30T13:00:09.579251+00:00",
+      "updated_at": "2025-07-30T13:00:09.579251+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985b6b-35f0-78ab-b84f-39b13213eb1a",
+      "created_at": "2025-07-30T13:00:09.584200+00:00",
+      "updated_at": "2025-07-30T13:00:09.584200+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985b6b-35f4-74e0-a4ae-054e88bb1e2b",
+      "created_at": "2025-07-30T13:00:09.588264+00:00",
+      "updated_at": "2025-07-30T13:00:09.588264+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985852-79da-7ff1-b6e6-6152ac275ed9",
+      "created_at": "2025-07-29T22:34:16.922137+00:00",
+      "updated_at": "2025-07-29T22:34:16.922137+00:00",
+      "reference": "TES-00011553",
+      "revision": "2",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-35f8-7f64-a9fb-18b3f10c173a",
+      "created_at": "2025-07-30T13:00:09.592214+00:00",
+      "updated_at": "2025-07-30T13:00:09.592214+00:00",
+      "info": 0,
+      "warning": 59,
+      "error": 1
+    },
+    "document_type": "procedure_digitalization"
+  },
+  {
+    "id": "01985b6b-273f-7042-bc0e-b256ea1b17c1",
+    "created_at": "2025-07-30T13:00:05.823559+00:00",
+    "updated_at": "2025-07-30T13:00:05.823559+00:00",
+    "total_testruns_digitalized": {
+      "id": "01985b6b-2720-75e2-a772-02a95f8c5da1",
+      "created_at": "2025-07-30T13:00:05.792252+00:00",
+      "updated_at": "2025-07-30T13:00:05.792252+00:00",
+      "name": "total_testruns_digitalized",
+      "value": 7,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_AC_digitalized": {
+      "id": "01985b6b-2724-7b03-97d0-10a07d1a4f52",
+      "created_at": "2025-07-30T13:00:05.796614+00:00",
+      "updated_at": "2025-07-30T13:00:05.796614+00:00",
+      "name": "total_AC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_ER_digitalized": {
+      "id": "01985b6b-2729-7b22-888e-ef5ff1050c5f",
+      "created_at": "2025-07-30T13:00:05.801843+00:00",
+      "updated_at": "2025-07-30T13:00:05.801843+00:00",
+      "name": "total_ER_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_IC_digitalized": {
+      "id": "01985b6b-2730-7f11-9101-293f71096e18",
+      "created_at": "2025-07-30T13:00:05.808092+00:00",
+      "updated_at": "2025-07-30T13:00:05.808092+00:00",
+      "name": "total_IC_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "total_CO_digitalized": {
+      "id": "01985b6b-2736-7011-859d-ea4f0fa825fe",
+      "created_at": "2025-07-30T13:00:05.814815+00:00",
+      "updated_at": "2025-07-30T13:00:05.814815+00:00",
+      "name": "total_CO_digitalized",
+      "value": 0,
+      "group_type": "DEFINE",
+      "references": ""
+    },
+    "procedure_id": {
+      "id": "01985b6b-03df-7a3c-95be-8254d83b10b6",
+      "created_at": "2025-07-30T12:59:56.767667+00:00",
+      "updated_at": "2025-07-30T12:59:56.767667+00:00",
+      "reference": "TES-00006238",
+      "revision": "9",
+      "status": "0"
+    },
+    "comment_id": {
+      "id": "01985b6b-273b-7cd8-bdae-f7c90ee81b10",
+      "created_at": "2025-07-30T13:00:05.819663+00:00",
+      "updated_at": "2025-07-30T13:00:05.819663+00:00",
+      "info": 0,
+      "warning": 59,
+      "error": 1
+    },
+    "document_type": "procedure_digitalization"
+  }
+]

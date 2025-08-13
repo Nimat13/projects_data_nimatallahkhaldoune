@@ -1,0 +1,114 @@
+filebeat.registry:
+  flush: 1s
+  cleanup_interval: 5m
+
+filebeat.inputs:
+  # --- autorun logs (inchangés) ---
+  - type: filestream
+    id: decide_logs
+    paths: ["/data/logs/autorun_decide_log.log"]
+    tags: ["autorun_decide"]
+    ignore_older: 0
+    close.on_state_change.inactive: 1s
+    close.on_state_change.renamed: true
+    close.on_state_change.removed: true
+    clean_removed: true
+    close_removed: true
+    clean_inactive: 5m
+    scan_frequency: 1s
+
+  - type: filestream
+    id: control_logs_dsb01
+    paths: ["/data/logs/dsb-01_autorun_control_log.log"]
+    tags: ["autorun_control"]
+    ignore_older: 0
+    close.on_state_change.inactive: 1s
+    close.on_state_change.renamed: true
+    close.on_state_change.removed: true
+    clean_removed: true
+    close_removed: true
+    clean_inactive: 5m
+    scan_frequency: 1s
+
+  - type: filestream
+    id: control_logs_dsb02
+    paths: ["/data/logs/dsb-02_autorun_control_log.log"]
+    tags: ["autorun_control"]
+    ignore_older: 0
+    close.on_state_change.inactive: 1s
+    close.on_state_change.renamed: true
+    close.on_state_change.removed: true
+    clean_removed: true
+    close_removed: true
+    clean_inactive: 5m
+    scan_frequency: 1s
+
+  - type: filestream
+    id: control_logs_dsb03
+    paths: ["/data/logs/dsb-03_autorun_control_log.log"]
+    tags: ["autorun_control"]
+    ignore_older: 0
+    close.on_state_change.inactive: 1s
+    close.on_state_change.renamed: true
+    close.on_state_change.removed: true
+    clean_removed: true
+    close_removed: true
+    clean_inactive: 5m
+    scan_frequency: 1s
+
+  - type: filestream
+    id: hil_synthesis_backend
+    paths: ["/data/logs/Hil_Synthesis_logs.log"]
+    tags: ["hil_synthesis_backend"]
+    ignore_older: 0
+    close.on_state_change.inactive: 1s
+    close.on_state_change.renamed: true
+    close.on_state_change.removed: true
+    clean_removed: true
+    close_removed: true
+    clean_inactive: 5m
+    scan_frequency: 1s
+
+  - type: filestream
+    id: procedures_json
+    paths: ["/data/synthesis_data/procedure.json"]
+    tags: ["procedure"]
+    ignore_older: 0
+    scan_frequency: 1s
+    close.on_state_change.inactive: 1s
+
+  - type: filestream
+    id: kpi_variables_json
+    paths: ["/data/synthesis_data/kpi_variable.json"]
+    tags: ["kpi_variable"]
+    ignore_older: 0
+    scan_frequency: 1s
+    close.on_state_change.inactive: 1s
+
+  - type: filestream
+    id: comments_json
+    paths: ["/data/synthesis_data/comment.json"]
+    tags: ["comment"]
+    ignore_older: 0
+    scan_frequency: 1s
+    close.on_state_change.inactive: 1s
+
+  - type: filestream
+    id: procedure_definition_json
+    paths: ["/data/synthesis_data/procedure_def.json"]
+    tags: ["procedure_def"]
+    ignore_older: 0
+    scan_frequency: 1s
+    close.on_state_change.inactive: 1s
+
+  - type: filestream
+    id: procedure_digitalization_json
+    paths: ["/data/synthesis_data/procedure_digi.json"]
+    tags: ["procedure_digi"]
+    ignore_older: 0
+    scan_frequency: 1s
+    close.on_state_change.inactive: 1s
+
+
+output.logstash:
+  hosts: ["logstash:5044"]
