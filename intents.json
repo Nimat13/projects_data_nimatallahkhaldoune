@@ -1,0 +1,819 @@
+{
+    "intents": [
+        {
+            "tag": "crédit_à_la_consommation",
+            "patterns": [
+                "Qu'est-ce que le Crédit à la consommation ?",
+                "Comment obtenir un Crédit à la consommation ?",
+                "Quels sont les avantages du Crédit à la consommation ?",
+                "Quels documents sont requis pour un Crédit à la consommation ?",
+                "Quels sont les taux pour un Crédit à la consommation ?"
+            ],
+            "responses": [
+                "Le Crédit à la consommation est destiné à Particulier.\n- Taux d'intérêt : 2.5% - 4%\n- Montant : de 5000 MAD à 500,000 MAD\n- Durée de remboursement : 12 mois - 84 mois\n- Conditions : Revenu minimum requis de 3000 MAD par mois\n\nAvantages : Taux d'intérêt compétitifs, Réponse rapide sous 24 heures, Possibilité de remboursement anticipé\n\nProcessus : Rendez-vous en agence ou utilisez l'application Attijari Mobile pour effectuer une simulation et soumettre votre demande. Un conseiller analysera votre dossier et vous fournira une réponse sous 24 heures. En cas d'approbation, signez le contrat et les fonds seront versés sur votre compte.\n\nDocuments requis : Pièce d'identité en cours de validité., Justificatif de domicile récent., Bulletins de salaire récents ou justificatif de revenus., Relevés bancaires des trois derniers mois.\n\nPour plus d'informations, contactez : +212 522 123 456 ou contact@attijariwafabank.com."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "crédit_express_en_ligne",
+            "patterns": [
+                "Qu'est-ce que le Crédit Express en ligne ?",
+                "Comment obtenir un Crédit Express en ligne ?",
+                "Quels sont les avantages du Crédit Express en ligne ?",
+                "Quels documents sont requis pour un Crédit Express en ligne ?",
+                "Quels sont les taux pour un Crédit Express en ligne ?"
+            ],
+            "responses": [
+                "Le Crédit Express en ligne est destiné à Particulier.\n- Taux d'intérêt : 3% - 5%\n- Montant : de 10,000 MAD à 300,000 MAD\n- Durée de remboursement : 6 mois - 60 mois\n- Conditions : Disponible uniquement pour les clients ayant un compte actif chez Attijariwafa bank\n\nAvantages : Demande rapide et simplifiée via l'application, Réponse sous 4 heures, Pas besoin de déplacement initial\n\nProcessus : Connectez-vous à l'application Attijari Mobile. Sélectionnez 'Mes Crédits' puis 'Mes Crédits à la Consommation'. Remplissez les informations requises et téléchargez les documents nécessaires. Recevez une réponse en moins de 4 heures. Présentez-vous en agence pour finaliser le processus.\n\nDocuments requis : Pièce d'identité en cours de validité., Justificatif de domicile récent., Justificatifs de revenus., Relevés bancaires récents.\n\nPour plus d'informations, contactez : +212 522 123 456 ou support@attijariwafabank.com."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "prêt_étudiant",
+            "patterns": [
+                "Qu'est-ce que le Prêt étudiant ?",
+                "Comment obtenir un Prêt étudiant ?",
+                "Quels sont les avantages du Prêt étudiant ?",
+                "Quels documents sont requis pour un Prêt étudiant ?",
+                "Quels sont les taux pour un Prêt étudiant ?"
+            ],
+            "responses": [
+                "Le Prêt étudiant est destiné à Particulier.\n- Taux d'intérêt : 2% - 3.5%\n- Montant : de 20,000 MAD à 200,000 MAD\n- Durée de remboursement : Jusqu'à 5 ans après la fin des études\n- Conditions : Établissement d'enseignement reconnu\n\nAvantages : Remboursement différé jusqu'à la fin des études, Aucun frais de dossier pour les étudiants, Flexibilité dans les remboursements\n\nProcessus : Rendez-vous en agence pour discuter de votre projet. Soumettez les documents requis pour l'évaluation. Après approbation, signez le contrat de prêt. Les fonds seront débloqués selon les modalités convenues.\n\nDocuments requis : Pièce d'identité en cours de validité., Justificatif de domicile récent., Attestation d'inscription ou certificat de scolarité., Justificatifs de revenus des parents ou garant., Relevés bancaires récents.\n\nPour plus d'informations, contactez : +212 522 234 567 ou etudiants@attijariwafabank.com."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "crédit_immobilier",
+            "patterns": [
+                "Qu'est-ce que le Crédit immobilier ?",
+                "Comment obtenir un Crédit immobilier ?",
+                "Quels sont les avantages du Crédit immobilier ?",
+                "Quels documents sont requis pour un Crédit immobilier ?",
+                "Quels sont les taux pour un Crédit immobilier ?"
+            ],
+            "responses": [
+                "Le Crédit immobilier est destiné à Particulier.\n- Taux d'intérêt : 3.5% - 5%\n- Montant : de 100,000 MAD à 10,000,000 MAD\n- Durée de remboursement : Jusqu'à 25 ans\n- Conditions : Hypothèque sur le bien financé\n\nAvantages : Possibilité de taux fixe ou variable, Flexibilité des mensualités, Remboursement anticipé sans pénalités\n\nProcessus : Prenez rendez-vous en agence pour discuter de votre projet immobilier. Effectuez une simulation pour déterminer le montant et la durée du prêt. Soumettez les documents requis pour l'étude. Signez l'offre de prêt après validation. Les fonds seront débloqués selon l'avancement du projet.\n\nDocuments requis : Pièce d'identité en cours de validité., Justificatif de domicile récent., Contrat de réservation ou promesse de vente., Justificatifs de revenus., Relevés bancaires des six derniers mois., Plan de financement détaillé.\n\nPour plus d'informations, contactez : +212 522 345 678 ou immobilier@attijariwafabank.com."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "crédit_d'investissement",
+            "patterns": [
+                "Qu'est-ce que le Crédit d'investissement ?",
+                "Comment obtenir un Crédit d'investissement ?",
+                "Quels sont les avantages du Crédit d'investissement ?",
+                "Quels documents sont requis pour un Crédit d'investissement ?",
+                "Quels sont les taux pour un Crédit d'investissement ?"
+            ],
+            "responses": [
+                "Le Crédit d'investissement est destiné à Professionnel.\n- Taux d'intérêt : 4% - 6%\n- Montant : de 50,000 MAD à 50,000,000 MAD\n- Durée de remboursement : 5 à 15 ans\n- Conditions : Projet viable et approuvé par l'équipe financière\n\nAvantages : Accompagnement personnalisé, Possibilité de financement partiel ou total, Solutions adaptées à chaque secteur\n\nProcessus : Contactez votre conseiller professionnel ou rendez-vous dans un Centre Entreprise. Présentez votre projet d'investissement et les documents requis. Le dossier sera analysé pour évaluer la viabilité du projet. Après approbation, signez le contrat de crédit. Les fonds seront débloqués selon les modalités convenues.\n\nDocuments requis : Pièce d'identité du représentant légal., Statuts de l'entreprise., Justificatif de siège social., Bilans et comptes de résultats des trois dernières années., Prévisions financières liées au projet., Devis ou factures pro forma des investissements à réaliser.\n\nPour plus d'informations, contactez : +212 522 456 789 ou entreprises@attijariwafabank.com."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "crédit_de_fonctionnement",
+            "patterns": [
+                "Qu'est-ce que le Crédit de fonctionnement ?",
+                "Comment obtenir un Crédit de fonctionnement ?",
+                "Quels sont les avantages du Crédit de fonctionnement ?",
+                "Quels documents sont requis pour un Crédit de fonctionnement ?",
+                "Quels sont les taux pour un Crédit de fonctionnement ?"
+            ],
+            "responses": [
+                "Le Crédit de fonctionnement est destiné à Professionnel.\n- Taux d'intérêt : 3% - 5%\n- Montant : de 20,000 MAD à 5,000,000 MAD\n- Durée de remboursement : 1 à 3 ans\n- Conditions : Entreprise en activité depuis au moins 2 ans\n\nAvantages : Couverture rapide des besoins en trésorerie, Taux compétitifs, Flexibilité dans les échéances\n\nProcessus : Rencontrez votre conseiller pour discuter de vos besoins en fonds de roulement. Soumettez les documents financiers de votre entreprise. Le dossier sera évalué pour déterminer le montant du crédit. Après approbation, signez le contrat et accédez aux fonds.\n\nDocuments requis : Pièce d'identité du représentant légal., Documents juridiques de l'entreprise., Bilans et comptes de résultats récents., Relevés bancaires de l'entreprise., Justificatifs des besoins en trésorerie.\n\nPour plus d'informations, contactez : +212 522 567 890 ou fonctionnement@attijariwafabank.com."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "assurance_santé",
+            "patterns": [
+                "Qu'est-ce que l'Assurance Santé ?",
+                "Quels sont les produits de l'Assurance Santé ?",
+                "Quels sont les avantages de l'Assurance Santé ?",
+                "Combien coûte l'Assurance Santé ?",
+                "Puis-je souscrire à l'Assurance Santé ?"
+            ],
+            "responses": [
+                "Assurance Santé : Couverture des frais médicaux, pharmaceutiques et d'hospitalisation pour vous et votre famille.\n\n- Global SécurFamille : Remboursement des frais médicaux, pharmaceutiques et d'hospitalisation, avec options individuelles ou familiales.. Coût : À partir de 500 MAD/an. Plus d'infos : https://www.attijariwafabank.com/fr/besoin/assurance-prevoyance\n- Capital Santé : Solution financière pour faire face aux dépenses liées à une maladie grave couverte par le contrat.. Coût : À partir de 600 MAD/an. Plus d'infos : https://www.attijariwafabank.com/fr/capital_sante"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "assurance_vie_et_prévoyance",
+            "patterns": [
+                "Qu'est-ce que l'Assurance Vie et Prévoyance ?",
+                "Quels sont les produits de l'Assurance Vie et Prévoyance ?",
+                "Quels sont les avantages de l'Assurance Vie et Prévoyance ?",
+                "Combien coûte l'Assurance Vie et Prévoyance ?",
+                "Puis-je souscrire à l'Assurance Vie et Prévoyance ?"
+            ],
+            "responses": [
+                "Assurance Vie et Prévoyance : Protection financière pour vos proches en cas de décès ou d'invalidité.\n\n- AssurCompte : Versement d'un capital prédéfini à vos bénéficiaires en cas de décès ou d'invalidité absolue et définitive.. Coût : À partir de 300 MAD/an. Plus d'infos : https://www.cbaobank.com/fr/bancassurance"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "assurance_épargne_et_retraite",
+            "patterns": [
+                "Qu'est-ce que l'Assurance Épargne et Retraite ?",
+                "Quels sont les produits de l'Assurance Épargne et Retraite ?",
+                "Quels sont les avantages de l'Assurance Épargne et Retraite ?",
+                "Combien coûte l'Assurance Épargne et Retraite ?",
+                "Puis-je souscrire à l'Assurance Épargne et Retraite ?"
+            ],
+            "responses": [
+                "Assurance Épargne et Retraite : Solutions pour constituer une épargne en vue de la retraite ou pour financer les études de vos enfants.\n\n- Âge d'Or Retraite : Constitution progressive d'une retraite principale ou complémentaire avec capital garanti et avantages fiscaux.. Coût : Variable selon les versements. Plus d'infos : https://wafaassurance.ma/fr/assurance-professionnels/produits/le-dirigeant-et-sa-famille/epargne-retraite\n- Plan Épargne Éducation : Épargne dédiée pour préparer l'avenir éducatif de vos enfants, avec flexibilité des versements.. Coût : À partir de 200 MAD/mois. Plus d'infos : https://www.cbaobank.com/fr/bancassurance"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "assurance_automobile",
+            "patterns": [
+                "Qu'est-ce que l'Assurance Automobile ?",
+                "Quels sont les produits de l'Assurance Automobile ?",
+                "Quels sont les avantages de l'Assurance Automobile ?",
+                "Combien coûte l'Assurance Automobile ?",
+                "Puis-je souscrire à l'Assurance Automobile ?"
+            ],
+            "responses": [
+                "Assurance Automobile : Protection complète pour votre véhicule et ses occupants.\n\n- Assurance Auto : Couverture des dommages matériels et corporels liés à l'utilisation de votre véhicule.. Coût : Variable selon le véhicule et les garanties choisies. Plus d'infos : https://wafaassurance.ma/fr/assurance-particuliers/produits/auto/assurance-auto"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "assurance_habitation",
+            "patterns": [
+                "Qu'est-ce que l'Assurance Habitation ?",
+                "Quels sont les produits de l'Assurance Habitation ?",
+                "Quels sont les avantages de l'Assurance Habitation ?",
+                "Combien coûte l'Assurance Habitation ?",
+                "Puis-je souscrire à l'Assurance Habitation ?"
+            ],
+            "responses": [
+                "Assurance Habitation : Protection de votre résidence principale contre divers risques.\n\n- Assurance Résidence Principale : Couverture sur mesure pour protéger votre habitation et vos biens contre les sinistres.. Coût : À partir de 800 MAD/an. Plus d'infos : https://particuliers.attijariwafabank-europe.fr/assurance/assurance-habitation/assurance-residence-principale/"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "assistance",
+            "patterns": [
+                "Qu'est-ce que l'Assistance ?",
+                "Quels sont les produits de l'Assistance ?",
+                "Quels sont les avantages de l'Assistance ?",
+                "Combien coûte l'Assistance ?",
+                "Puis-je souscrire à l'Assistance ?"
+            ],
+            "responses": [
+                "Assistance : Services d'assistance en cas d'urgence, au Maroc ou à l'étranger.\n\n- Injad Sans Frontière : Assistance voyage incluant rapatriement, assistance juridique et médicale à l'étranger.. Coût : À partir de 500 MAD/an. Plus d'infos : https://particuliers.attijariwafabank-europe.fr/assurance/assistance/injad-sans-frontiere/\n- Afrik Assistance Sans Frontière : Assistance rapatriement de corps en cas de décès, avec couverture pour les proches.. Coût : À partir de 400 MAD/an. Plus d'infos : https://particuliers.attijariwafabank-europe.fr/assurance/assistance/afrik-assistance-sans-frontiere/"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "assurance_de_crédit",
+            "patterns": [
+                "Qu'est-ce que l'Assurance de Crédit ?",
+                "Quels sont les produits de l'Assurance de Crédit ?",
+                "Quels sont les avantages de l'Assurance de Crédit ?",
+                "Combien coûte l'Assurance de Crédit ?",
+                "Puis-je souscrire à l'Assurance de Crédit ?"
+            ],
+            "responses": [
+                "Assurance de Crédit : Protection contre les aléas empêchant le remboursement de vos crédits, comme le décès, l'invalidité ou la perte d'emploi.\n\n- Assurance Crédit Immobilier : Garantie du remboursement de votre prêt immobilier en cas de décès ou d'invalidité.. Coût : À partir de 0.25% du montant emprunté. Plus d'infos : https://www.attijariwafabank.com/fr/besoin/assurance-prevoyance\n- Assurance Crédit à la Consommation : Couverture des mensualités de votre prêt en cas d'incapacité temporaire ou permanente de travailler.. Coût : À partir de 0.50% du montant emprunté. Plus d'infos : https://www.attijariwafabank.com/fr/besoin/assurance-prevoyance"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "comment_accéder_à_mon_espace_sécurisé_attijarinet_?",
+            "patterns": [
+                "Comment accéder à mon espace sécurisé Attijarinet ?"
+            ],
+            "responses": [
+                "Pour accéder à votre espace sécurisé, vous devez être muni(e) de votre identifiant et de votre mot de passe.",
+                "Votre identifiant vous a été remis lors de votre souscription au service Attijarinet.",
+                "Votre mot de passe vous a été envoyé par SMS lors de la souscription. En cas de non réception ou d’oubli, procédez au recalcul de votre mot de passe depuis l’écran de connexion Attijarinet ou Attijari Mobile."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "à_ma_première_connexion,la_modification_du_mot_de_passe_est-elle_obligatoire?",
+            "patterns": [
+                "À ma première connexion, la modification du mot de passe est-elle obligatoire ?"
+            ],
+            "responses": [
+                "Oui, la modification du mot de passe est nécessaire lors de la première connexion pour des raisons de sécurité.",
+                "Assurez-vous de ne jamais communiquer votre mot de passe à autrui."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "comment_composer_mon_nouveau_mot_de_passe_?",
+            "patterns": [
+                "Comment composer mon nouveau mot de passe ?"
+            ],
+            "responses": [
+                "Votre mot de passe doit comporter entre 7 et 20 caractères alphanumériques, incluant au moins une lettre et au moins un chiffre.",
+                "Exemple : LJwekHrx8XXM6."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "que_se_passe-t-il_en_cas_déchec_lors_dune_première_tentative_de_connexion_?",
+            "patterns": [
+                "Que se passe-t-il en cas d'échec lors d'une première tentative de connexion ?"
+            ],
+            "responses": [
+                "En cas d’échec, vous aurez la possibilité de vous connecter à nouveau.",
+                "Cependant, après 3 essais de connexion infructueux, le système bloquera votre accès à Attijarinet pendant 5 minutes."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "que_faire_si_joublie_ou_perds_mon_mot_de_passe_?",
+            "patterns": [
+                "Que faire si j'oublie ou perds mon mot de passe ?"
+            ],
+            "responses": [
+                "Utilisez le lien 'Mot de passe oublié' via Attijarinet ou Attijari Mobile.",
+                "Renseignez votre identifiant et un numéro de compte domicilié chez Attijariwafa Bank.",
+                "Un code de réinitialisation provisoire sera envoyé à votre GSM enregistré. Saisissez ce code pour redéfinir votre mot de passe."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "à_quoi_sert_mon_code_à_usage_unique_?",
+            "patterns": [
+                "À quoi sert mon code à usage unique ?"
+            ],
+            "responses": [
+                "Le code à usage unique renforce le niveau de sécurité de votre espace Attijarinet.",
+                "Il sert à valider des opérations sensibles comme les virements, les recharges de carte, les mises à disposition sur GAB, et l’ajout de bénéficiaires ou de cartes pour la recharge."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "que_faire_si_je_ne_reçois_pas_mon_code_à_usage_unique_?",
+            "patterns": [
+                "Que faire si je ne reçois pas mon code à usage unique ?"
+            ],
+            "responses": [
+                "Cliquez sur le bouton 'Appel vocal' pour recevoir le code par appel.",
+                "Vérifiez si votre numéro GSM est correct ; sinon, adressez-vous à votre agence pour le modifier.",
+                "En cas de non-réception du SMS, mettez à jour votre opérateur téléphonique dans le menu 'Mon espace Attijarinet'."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "que_se_passe-t-il_en_cas_de_saisie_infructueuse_du_code_à_usage_unique_?",
+            "patterns": [
+                "Que se passe-t-il en cas de saisie infructueuse du code à usage unique ?"
+            ],
+            "responses": [
+                "Après une saisie infructueuse, vous pouvez réessayer.",
+                "Après 3 échecs, régénérez un nouveau code en fermant la fenêtre et en relançant la validation."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_gratuits_opérations_de_caisse",
+            "patterns": [
+                "Quels sont les services gratuits pour Opérations de caisse ?",
+                "Donnez-moi les détails des services gratuits liés à Opérations de caisse."
+            ],
+            "responses": [
+                "Voici les services gratuits disponibles pour Opérations de caisse:\n- Ouverture de compte\n- Délivrance de carnet de chèque\n- Délivrance de carnet d'épargne\n- Domiciliation de salaire\n- Changement des éléments d'identification du compte\n- Opposition pour perte ou vol de carnet d'épargne"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_gratuits_opérations_de_versement/retrait",
+            "patterns": [
+                "Quels sont les services gratuits pour Opérations de versement/retrait ?",
+                "Donnez-moi les détails des services gratuits liés à Opérations de versement/retrait."
+            ],
+            "responses": [
+                "Voici les services gratuits disponibles pour Opérations de versement/retrait:\n- Versement espèces sur place ou déplacé\n- Retrait par chèque normal au guichet domiciliataire\n- Retrait sur carnet d'épargne au guichet domiciliataire\n- Retrait sur carnet d'épargne au guichet non domiciliataire (moins de 2000 DH)\n- Échange de billets de banque et de monnaies divisionnaires"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_gratuits_opérations_relatives_aux_moyens_de_paiement",
+            "patterns": [
+                "Quels sont les services gratuits pour Opérations relatives aux moyens de paiement ?",
+                "Donnez-moi les détails des services gratuits liés à Opérations relatives aux moyens de paiement."
+            ],
+            "responses": [
+                "Voici les services gratuits disponibles pour Opérations relatives aux moyens de paiement:\n- Virements émis inter-agences et domiciliés\n- Virements permanents domiciliés\n- Virements reçus nationaux\n- Mise à disposition reçue\n- Frais de domiciliation de prélèvement automatique\n- Frais de contestation ou réclamation de prélèvement automatique"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_gratuits_banque_à_distance",
+            "patterns": [
+                "Quels sont les services gratuits pour Banque à distance ?",
+                "Donnez-moi les détails des services gratuits liés à Banque à distance."
+            ],
+            "responses": [
+                "Voici les services gratuits disponibles pour Banque à distance:\n- Attijarinet et Attijari Mobile pour les personnes physiques"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_gratuits_monétique/gab",
+            "patterns": [
+                "Quels sont les services gratuits pour Monétique/GAB ?",
+                "Donnez-moi les détails des services gratuits liés à Monétique/GAB."
+            ],
+            "responses": [
+                "Voici les services gratuits disponibles pour Monétique/GAB:\n- Retrait sur GAB Attijariwafa bank\n- Consultation du solde du compte"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_payants_fonctionnement_du_compte_ouverture,_fonctionnement_et_clôture_des_comptes",
+            "patterns": [
+                "Quels sont les services payants pour Ouverture, fonctionnement et clôture des comptes ?",
+                "Quels sont les tarifs des services pour Ouverture, fonctionnement et clôture des comptes ?"
+            ],
+            "responses": [
+                "Voici les services payants pour Ouverture, fonctionnement et clôture des comptes:\n- Compte courant : 33 DH/mois\n- Compte chèque : 19,80 DH/mois\n- Compte chèque MDM : 11 DH/mois\n- Compte en dirhams convertibles : 49,50 DH/trimestre\n- Frais d'ouverture et de gestion compte en dirhams convertibles à terme : 1 100 DH"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_payants_fonctionnement_du_compte_opérations_de_retrait",
+            "patterns": [
+                "Quels sont les services payants pour Opérations de retrait ?",
+                "Quels sont les tarifs des services pour Opérations de retrait ?"
+            ],
+            "responses": [
+                "Voici les services payants pour Opérations de retrait:\n- Retrait sans chèque au guichet domiciliataire : 18,70 DH/retrait\n- Retrait par chèque au guichet non domiciliataire : 33 DH\n- Retrait sur carnet d’épargne non domiciliataire : 33 DH (supérieur à 2000 DH)"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_payants_fonctionnement_du_compte_opérations_de_virement",
+            "patterns": [
+                "Quels sont les services payants pour Opérations de virement ?",
+                "Quels sont les tarifs des services pour Opérations de virement ?"
+            ],
+            "responses": [
+                "Voici les services payants pour Opérations de virement:\n- Mise à disposition Cash Express (1-2000 DH) : 23 DH\n- Mise à disposition Cash Express (2001-10 000 DH) : 47 DH\n- Virements entre agences : 24,20 DH/bénéficiaire\n- Virements instantanés : 16,50 DH\n- Mise à disposition reçue : 49,50 DH"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_payants_monétique_souscription_aux_cartes",
+            "patterns": [
+                "Quels sont les services payants pour Souscription aux cartes ?",
+                "Quels sont les tarifs des services pour Souscription aux cartes ?"
+            ],
+            "responses": [
+                "Voici les services payants pour Souscription aux cartes:\n- Carte World Access : 649 DH/an\n- Carte Fayda : 50 DH/an\n- Carte Mizane : 165 DH/an\n- Carte Rihla : 99 DH/an\n- Carte Premier : 580 DH/an\n- Carte Platinum : 1 490 DH/an"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_payants_monétique_cartes_entreprises",
+            "patterns": [
+                "Quels sont les services payants pour Cartes entreprises ?",
+                "Quels sont les tarifs des services pour Cartes entreprises ?"
+            ],
+            "responses": [
+                "Voici les services payants pour Cartes entreprises:\n- Carte Business : 550 DH/an\n- Carte Platinum : 1 650 DH/an"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_payants_crédits_crédits_à_la_consommation",
+            "patterns": [
+                "Quels sont les services payants pour Crédits à la consommation ?",
+                "Quels sont les tarifs des services pour Crédits à la consommation ?"
+            ],
+            "responses": [
+                "Voici les services payants pour Crédits à la consommation:\n- Taux : Selon barème en vigueur\n- Frais de dossier : 1,5% du montant débloqué (min 550 DH, max 5 500 DH)"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_payants_crédits_crédits_immobiliers",
+            "patterns": [
+                "Quels sont les services payants pour Crédits immobiliers ?",
+                "Quels sont les tarifs des services pour Crédits immobiliers ?"
+            ],
+            "responses": [
+                "Voici les services payants pour Crédits immobiliers:\n- Taux fixe et taux variable : Selon barème en vigueur\n- Frais de dossier : 0,1% (min 1 100 DH, max 4 400 DH)"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_payants_crédits_crédits_salaf_express",
+            "patterns": [
+                "Quels sont les services payants pour Crédits SALAF Express ?",
+                "Quels sont les tarifs des services pour Crédits SALAF Express ?"
+            ],
+            "responses": [
+                "Voici les services payants pour Crédits SALAF Express:\n- Taux fixe et taux variable : Selon barème en vigueur\n- Frais de dossier : Selon convention"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "faire_reclamation",
+            "patterns": [
+                "Comment faire une réclamation chez Attijariwafa Bank ?",
+                "Où puis-je déposer une réclamation ?",
+                "Quelles sont les étapes pour faire une réclamation ?",
+                "Que faire en cas de problème avec un service bancaire ?"
+            ],
+            "responses": [
+                "Pour faire une réclamation chez Attijariwafa Bank, vous pouvez utiliser plusieurs canaux :\n\n1. *En ligne* : Déposez votre réclamation directement via Attijarinet ou Attijari Mobile.\n2. *En agence* : Rendez-vous dans l'agence Attijariwafa la plus proche pour soumettre votre réclamation.\n3. *Par téléphone* : Contactez notre service client au +212 522 123 456.\n\nAssurez-vous de fournir toutes les informations nécessaires pour faciliter le traitement de votre réclamation."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "processus_reclamation",
+            "patterns": [
+                "Quel est le processus de traitement d'une réclamation ?",
+                "Combien de temps prend le traitement d'une réclamation ?",
+                "Quelles informations sont nécessaires pour faire une réclamation ?",
+                "Que se passe-t-il après avoir déposé une réclamation ?"
+            ],
+            "responses": [
+                "Le processus de traitement d'une réclamation se déroule en plusieurs étapes :\n\n1. *Soumission* : Vous déposez votre réclamation avec toutes les informations pertinentes.\n2. *Analyse* : Notre équipe étudie votre réclamation pour comprendre le problème.\n3. *Réponse* : Vous recevrez une réponse dans un délai de 5 à 10 jours ouvrés.\n4. *Suivi* : Si vous n'êtes pas satisfait de la réponse, vous pouvez demander un suivi ou contacter la médiation bancaire."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "moyens_contact_reclamation",
+            "patterns": [
+                "Comment contacter le service réclamation ?",
+                "Quels sont les moyens de contact pour déposer une réclamation ?",
+                "Où puis-je trouver l'adresse pour envoyer une réclamation ?"
+            ],
+            "responses": [
+                "Vous pouvez contacter le service réclamation de plusieurs manières :\n\n1. *Téléphone* : Appelez notre service client au +212 522 123 456.\n2. *Email* : Envoyez votre réclamation à reclamation@attijariwafabank.com.\n3. *En ligne* : Déposez votre réclamation directement via Attijarinet ou Attijari Mobile.\n4. *En agence* : Vous pouvez également vous rendre directement en agence pour déposer votre réclamation."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "réclamation_médiation",
+            "patterns": [
+                "Que faire si je ne suis pas satisfait de la réponse à ma réclamation ?",
+                "Comment faire appel à la médiation bancaire ?",
+                "Quels sont les recours après une réclamation ?"
+            ],
+            "responses": [
+                "Si vous n'êtes pas satisfait de la réponse donnée à votre réclamation, vous avez plusieurs recours :\n\n1. *Contacter la médiation bancaire* : Vous pouvez saisir notre médiateur pour une nouvelle analyse de votre dossier.\n2. *Escalader la réclamation* : Si nécessaire, vous pouvez faire appel à des instances externes, comme la *Banque centrale* ou d'autres régulateurs bancaires.\n\nNous nous engageons à résoudre toutes les réclamations de manière équitable et transparente."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "documents_reclamation",
+            "patterns": [
+                "Quels documents doivent être fournis pour une réclamation ?",
+                "Dois-je fournir des preuves pour faire une réclamation ?",
+                "Quels documents sont nécessaires pour le traitement d'une réclamation ?"
+            ],
+            "responses": [
+                "Pour déposer une réclamation, il est important de fournir tous les documents relatifs au problème que vous signalez, tels que :\n\n1. *Justificatif d'identité* (copie de la pièce d'identité).\n2. *Relevés bancaires* ou tout autre document en rapport avec la réclamation.\n3. *Détails de la réclamation* : Description précise du problème, y compris les dates, les montants et les transactions concernées.\n\nCes informations permettent à notre équipe de traiter votre réclamation plus rapidement et efficacement."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "reglementations_bancaires",
+            "patterns": [
+                "Quelles sont les réglementations bancaires d'Attijariwafa Bank ?",
+                "Comment Attijariwafa Bank se conforme aux lois locales et internationales ?",
+                "Attijariwafa Bank suit-elle des réglementations spécifiques ?",
+                "Quelles sont les normes bancaires appliquées par Attijariwafa ?"
+            ],
+            "responses": [
+                "Attijariwafa Bank se conforme à toutes les *réglementations bancaires* locales et internationales, en particulier celles relatives à la *lutte contre le blanchiment d'argent, la **protection des consommateurs* et la *transparence financière*. Nous suivons également les standards de sécurité pour garantir la confidentialité et l'intégrité des transactions bancaires."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "protection_des_donnees",
+            "patterns": [
+                "Comment Attijariwafa Bank protège-t-elle mes données personnelles ?",
+                "Quelles mesures Attijariwafa prend-elle pour sécuriser mes informations personnelles ?",
+                "Comment mes données sont-elles utilisées par Attijariwafa Bank ?",
+                "Attijariwafa Bank respecte-t-elle la réglementation sur la protection des données ?"
+            ],
+            "responses": [
+                "Attijariwafa Bank respecte les réglementations strictes en matière de *protection des données personnelles, conformément à la loi sur la **protection des données personnelles* (RGPD pour l'UE, et d'autres normes locales). Toutes vos informations sont sécurisées grâce à des *protocoles de cryptage* avancés et ne sont utilisées que dans le cadre de la gestion de vos services bancaires. Vous avez toujours accès à vos informations et pouvez demander leur suppression ou leur rectification si nécessaire."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "securite_transactions",
+            "patterns": [
+                "Comment mes transactions bancaires sont-elles sécurisées ?",
+                "Quelles mesures de sécurité sont prises pour mes paiements en ligne ?",
+                "Comment Attijariwafa Bank sécurise-t-elle les transferts d'argent ?",
+                "Qu'est-ce que l'authentification à deux facteurs pour les transactions bancaires ?"
+            ],
+            "responses": [
+                "Attijariwafa Bank met en place des *mesures de sécurité strictes* pour protéger vos transactions :\n\n1. *Cryptage des données* : Toutes les données échangées sont cryptées pour empêcher les accès non autorisés.\n2. *Authentification à deux facteurs* : Pour valider certaines transactions, un code unique est envoyé sur votre téléphone mobile.\n3. *Surveillance des transactions* : Nous surveillons en temps réel toutes les transactions pour détecter toute activité suspecte.\n4. *Certificat SSL* : Attijariwafa utilise un certificat SSL pour garantir la sécurité des transactions en ligne."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "conformite_anti_blanchiment",
+            "patterns": [
+                "Comment Attijariwafa Bank lutte contre le blanchiment d'argent ?",
+                "Quelles sont les politiques d'Attijariwafa en matière de blanchiment d'argent ?",
+                "Attijariwafa Bank vérifie-t-elle l'origine des fonds ?",
+                "Quelles mesures sont prises pour prévenir le financement du terrorisme ?"
+            ],
+            "responses": [
+                "Attijariwafa Bank applique des *mesures strictes* pour lutter contre le *blanchiment d'argent* et le *financement du terrorisme* (LBC/FT) :\n\n1. *Vérification de l'identité* : Tous les clients doivent fournir des informations complètes et vérifier leur identité lors de l'ouverture d'un compte.\n2. *Surveillance des transactions* : Nous analysons toutes les transactions suspectes et nous conformons aux lois en vigueur.\n3. *Formation des employés* : Nous formons notre personnel pour détecter et signaler toute activité suspecte liée au blanchiment d'argent et au financement du terrorisme."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "compliance_financiere",
+            "patterns": [
+                "Comment Attijariwafa Bank garantit-elle la conformité financière ?",
+                "Quelles sont les normes de conformité financière d'Attijariwafa ?",
+                "Attijariwafa Bank suit-elle les normes internationales de conformité financière ?",
+                "Quels contrôles internes sont effectués chez Attijariwafa Bank ?"
+            ],
+            "responses": [
+                "Attijariwafa Bank suit des normes strictes de *conformité financière, en assurant le respect des **principes internationaux* et des *régulations locales. Nos contrôles internes incluent des audits réguliers, une surveillance des transactions financières et la mise en œuvre des pratiques recommandées par des organisations internationales telles que le **FMI* et la *BCEAO*."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "e_packs_offres",
+            "patterns": [
+                "Qu'est-ce qu'un e-pack ?",
+                "Quels sont les avantages d'un e-pack ?",
+                "Comment souscrire à un e-pack ?",
+                "Quels services sont inclus dans un e-pack ?"
+            ],
+            "responses": [
+                "Un e-pack est une offre combinée de services bancaires numériques destinée aux particuliers et professionnels. Les services inclus sont :\n- Ouverture de compte courant ou épargne\n- Carte bancaire gratuite\n- Accès à Attijarinet et Attijari Mobile pour gérer vos comptes en ligne\n\nAvantages : Simplification des services bancaires, accès en ligne 24/7, carte bancaire gratuite.\n\nSouscription : Vous pouvez souscrire à un e-pack en ligne sur Attijarinet ou directement en agence."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "services_particuliers",
+            "patterns": [
+                "Quels services bancaires sont proposés aux particuliers ?",
+                "Comment ouvrir un compte pour un particulier ?",
+                "Quels types de comptes bancaires propose Attijariwafa ?",
+                "Quels sont les frais pour les particuliers ?"
+            ],
+            "responses": [
+                "Pour les particuliers, Attijariwafa Bank propose les services suivants :\n- *Comptes courants* : Pour gérer vos finances quotidiennes\n- *Comptes épargne* : Pour gérer vos économies et obtenir des intérêts\n- *Crédits à la consommation* : Pour financer vos projets personnels\n- *Assurances* : Santé, automobile, habitation\n\nFrais : À partir de 30 MAD par mois pour un compte courant. Les frais de gestion varient selon les services souscrits."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "services_professionnels",
+            "patterns": [
+                "Quels services sont disponibles pour les professionnels ?",
+                "Comment ouvrir un compte professionnel chez Attijariwafa ?",
+                "Quels types de financements sont disponibles pour les entreprises ?",
+                "Quels sont les avantages pour les entreprises ?"
+            ],
+            "responses": [
+                "Attijariwafa Bank propose une gamme complète de services pour les professionnels :\n- *Comptes professionnels* : Compte dédié pour gérer les finances de l'entreprise.\n- *Crédits d'investissement* : Pour financer des projets professionnels.\n- *Crédits de fonctionnement* : Pour financer les besoins en trésorerie de l'entreprise.\n- *Services bancaires à distance* : Accès à Attijarinet et à Attijari Mobile pour gérer vos comptes professionnels.\n\nLes avantages incluent des solutions adaptées aux besoins des entreprises, des taux compétitifs et des services personnalisés."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "mre_services",
+            "patterns": [
+                "Qu'est-ce que les services MRE ?",
+                "Quels avantages pour les Marocains Résidant à l'Étranger ?",
+                "Comment souscrire à un service MRE ?",
+                "Quelles sont les conditions pour un MRE ?"
+            ],
+            "responses": [
+                "Les services MRE (Marocains Résidant à l'Étranger) sont des offres spécialement conçues pour répondre aux besoins des Marocains vivant à l'étranger. Ces services comprennent :\n- *Ouverture de compte à distance* : Ouvrez un compte depuis l'étranger sans vous déplacer.\n- *Virements internationaux à des tarifs avantageux.\n- **Assurances MRE* : Adaptées aux besoins des MRE.\n\nLes avantages incluent des frais réduits pour les transferts, des services en ligne, et un accès facile aux produits bancaires."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "offre_entreprise",
+            "patterns": [
+                "Quels services bancaires pour les entreprises ?",
+                "Comment ouvrir un compte professionnel ?",
+                "Quels types de financements pour les entreprises ?",
+                "Quels sont les avantages d'Attijariwafa pour les entreprises ?"
+            ],
+            "responses": [
+                "Attijariwafa Bank propose une gamme complète de services bancaires pour les entreprises :\n- *Comptes professionnels* : Ouverture d'un compte pour la gestion des finances de l'entreprise.\n- *Financement d'investissements* : Crédits pour financer des projets à long terme.\n- *Crédits de fonctionnement* : Financement de la trésorerie pour les petites et moyennes entreprises.\n- *Solutions de paiement* : Virements, cartes bancaires professionnelles, et solutions de paiement mobile.\n\nLes avantages : Accompagnement personnalisé, solutions adaptées à chaque entreprise, et accès à des conseils spécialisés."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "tarifs_bancaires",
+            "patterns": [
+                "Quels sont les frais bancaires ?",
+                "Combien coûte un compte bancaire chez Attijariwafa ?",
+                "Quels sont les frais pour les cartes bancaires ?",
+                "Quelles sont les conditions de tarification des services bancaires ?"
+            ],
+            "responses": [
+                "Les frais bancaires chez Attijariwafa Bank varient en fonction des services choisis :\n- *Comptes bancaires* : À partir de 30 MAD par mois pour un compte courant.\n- *Cartes bancaires* : Frais annuels de 150 MAD pour une carte standard.\n- *Virements bancaires* : Les frais varient selon le type de virement et la destination.\n\nLes services numériques (Attijarinet, Attijari Mobile) sont gratuits pour les clients ayant un compte bancaire.\n\nPour plus de détails sur les tarifs, consultez notre brochure tarifaire ou contactez notre service clientèle."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "ouverture_compte",
+            "patterns": [
+                "Quels documents sont nécessaires pour ouvrir un compte bancaire ?",
+                "Comment ouvrir un compte chez Attijariwafa Bank ?",
+                "Quelles sont les conditions pour ouvrir un compte bancaire ?",
+                "Quels types de comptes propose Attijariwafa Bank ?"
+            ],
+            "responses": [
+                "Pour ouvrir un compte bancaire chez Attijariwafa Bank, vous devez fournir :\n- Pièce d'identité valide\n- Justificatif de domicile récent\n- Relevé bancaire récent ou fiche de paie.\n\nLes types de comptes proposés sont :\n- Compte courant\n- Compte épargne\n- Compte professionnel."
+            ],
+            "complexe": false
+        },
+        {
+            "tag": "frais_bancaires",
+            "patterns": [
+                "Quels sont les frais de gestion de compte ?",
+                "Quels sont les frais liés aux cartes bancaires ?",
+                "Combien coûte l'ouverture d'un compte ?",
+                "Quels sont les frais de retrait d'argent à un guichet automatique ?"
+            ],
+            "responses": [
+                "Les frais de gestion de compte courant commencent à partir de 30 MAD par mois. Les frais pour les cartes bancaires varient selon le type de carte choisie. Vous pouvez également consulter notre brochure tarifaire pour des détails sur tous les frais associés aux services bancaires.\n\nLes frais de retrait d'argent dépendent du guichet automatique et de la banque."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_en_ligne",
+            "patterns": [
+                "Comment accéder à Attijarinet ?",
+                "Qu'est-ce que le service Attijarinet ?",
+                "Comment sécuriser mon compte Attijarinet ?",
+                "Que faire si j'oublie mon mot de passe Attijarinet ?"
+            ],
+            "responses": [
+                "Attijarinet est notre service bancaire en ligne qui vous permet de gérer vos comptes, effectuer des virements et consulter vos relevés bancaires.\n\nPour sécuriser votre compte, nous recommandons d'activer l'authentification à deux facteurs et de ne pas partager vos identifiants.\n\nSi vous oubliez votre mot de passe, vous pouvez réinitialiser votre mot de passe en cliquant sur 'Mot de passe oublié' sur la page de connexion d'Attijarinet."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_mobiles",
+            "patterns": [
+                "Comment utiliser Attijari Mobile ?",
+                "Qu'est-ce qu'Attijari Mobile ?",
+                "Quels services sont disponibles sur Attijari Mobile ?",
+                "Comment sécuriser mon compte sur Attijari Mobile ?"
+            ],
+            "responses": [
+                "Attijari Mobile est l'application mobile qui vous permet de gérer vos comptes bancaires, effectuer des paiements, consulter vos relevés, et bien plus encore.\n\nPour sécuriser votre compte, activez l'authentification à deux facteurs et vérifiez régulièrement vos activités sur l'application.\n\nLes services disponibles incluent la consultation de solde, les virements, le paiement de factures, et la gestion des cartes bancaires."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "paiement_en_ligne",
+            "patterns": [
+                "Comment faire un paiement en ligne avec ma carte Attijariwafa ?",
+                "Quelles cartes sont compatibles pour les paiements en ligne ?",
+                "Comment sécuriser mes paiements en ligne ?"
+            ],
+            "responses": [
+                "Vous pouvez effectuer des paiements en ligne en utilisant votre carte Attijariwafa. Il suffit de saisir les informations de votre carte lors du paiement sur le site ou l'application du commerçant.\n\nLes cartes compatibles pour les paiements en ligne incluent les cartes *Visa* et *MasterCard*.\n\nPour sécuriser vos paiements en ligne, utilisez des services de sécurité comme l'authentification 3D Secure, et ne partagez jamais vos informations bancaires."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "services_internationaux",
+            "patterns": [
+                "Comment effectuer un virement international ?",
+                "Quelles sont les options pour envoyer de l'argent à l'étranger ?",
+                "Quels sont les frais associés aux virements internationaux ?"
+            ],
+            "responses": [
+                "Pour effectuer un virement international, vous pouvez utiliser Attijarinet ou Attijari Mobile. Vous devrez fournir les informations bancaires du destinataire et choisir la devise.\n\nLes frais pour les virements internationaux varient en fonction de la destination et de la méthode de paiement choisie. Pour plus de détails, consultez notre brochure tarifaire."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "obtenir_credit_bancaire",
+            "patterns": [
+                "Comment obtenir un crédit bancaire chez Attijariwafa ?",
+                "Quels sont les critères d'éligibilité pour un crédit bancaire ?",
+                "Quelles sont les étapes pour obtenir un crédit ?",
+                "Quels documents sont nécessaires pour demander un crédit ?",
+                "Quels types de crédits sont disponibles ?"
+            ],
+            "responses": [
+                "Pour obtenir un crédit bancaire chez Attijariwafa, vous devez suivre ces étapes :\n\n1. *Choisir le type de crédit* : Attijariwafa Bank propose plusieurs types de crédits (crédit à la consommation, crédit immobilier, crédit étudiant, etc.).\n2. *Vérification des critères d'éligibilité* : Vous devez répondre à des critères de revenu minimum et fournir certains documents (pièce d'identité, justificatif de domicile, bulletins de salaire, etc.).\n3. *Simulation* : Vous pouvez effectuer une simulation en ligne sur Attijarinet ou en agence.\n4. *Soumettre la demande* : Vous soumettez votre demande de crédit accompagnée des documents nécessaires.\n5. *Analyse et approbation* : Après analyse, la banque vous donnera une réponse sous 24 à 48 heures.\n6. *Signature du contrat* : Si votre demande est acceptée, vous signez un contrat et les fonds seront versés sur votre compte."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "perte_carte_bancaire",
+            "patterns": [
+                "Que faire si je perds ma carte bancaire ?",
+                "Comment bloquer ma carte bancaire en cas de perte ?",
+                "Que faire si ma carte bancaire est volée ?",
+                "Comment obtenir une nouvelle carte bancaire après une perte ?"
+            ],
+            "responses": [
+                "Si vous perdez votre carte bancaire ou si elle est volée, voici les étapes à suivre :\n\n1. *Bloquer immédiatement la carte* : Contactez notre service client au +212 522 123 456 pour bloquer votre carte.\n2. *Vérifier les transactions* : Consultez vos transactions récentes sur Attijarinet ou Attijari Mobile pour détecter toute activité suspecte.\n3. *Demander une nouvelle carte* : Vous pouvez demander une nouvelle carte bancaire en agence ou via Attijarinet.\n4. *Suivi de réclamation* : Si des transactions frauduleuses ont été effectuées, nous ouvrirons une enquête pour résoudre le problème."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "types_de_credits",
+            "patterns": [
+                "Quels sont les types de crédits offerts par Attijari ?",
+                "Pouvez-vous me donner les types de crédits disponibles ?",
+                "Quels crédits propose la banque Attijari ?",
+                "Quels sont les crédits disponibles ?"
+            ],
+            "responses": [
+                "Voici les types de crédits proposés par Attijari :\n Crédit de fonctionnement, Crédit d'investissement, Crédit immobilier, Prêt étudiant, Crédit express en ligne et Crédit à la consommation. Pour plus d'informations, n'hésitez pas à poser une question sur l'un de ces crédits. "
+                
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "types_d_assurance",
+            "patterns": [
+                "Quels sont les types d'assurance offerts par Attijari ?",
+                "Pouvez-vous me donner les types d'assurance disponibles ?",
+                "Quels sont les assurances proposées par Attijari ?",
+                "Quels types d'assurance propose la banque Attijari ?"
+            ],
+            "responses": [
+                "Les types d'assurance proposés par Attijari incluent : l'assurance de crédit, l'assistance, l'assurance habitation, l'assurance automobile, l'assurance épargne et retraite, l'assurance vie et prévoyance, et l'assurance santé. Pour plus de détails sur une assurance spécifique, n'hésitez pas à poser une question."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Bonjour",
+                "Salut",
+                "Bonsoir",
+                "Hello",
+                "Coucou",
+                "Hey"
+            ],
+            "responses": [
+                "Bonjour ! Bienvenue dans le service client d’Attijariwafa bank. Comment puis-je vous aider aujourd'hui ?",
+                "Salut ! Bienvenue dans le service client d’Attijariwafa bank. Que puis-je faire pour vous aujourd'hui ?",
+                "Bonjour ! Bienvenue dans le service client d’Attijariwafa bank. Je suis là pour répondre à vos questions."
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "merci",
+            "patterns": [
+                "Merci",
+                "Merci beaucoup",
+                "Merci bien",
+                "C'est gentil, merci",
+                "Je vous remercie"
+            ],
+            "responses": [
+                "Avec plaisir ! Si vous avez d'autres questions, n'hésitez pas.",
+                "Je suis là pour ça ! Besoin d'autre chose ?",
+                "De rien ! Comment puis-je encore vous aider ?"
+            ],
+            "complexe": false 
+        },
+        {
+            "tag": "inconnu",
+            "patterns": [
+                "C'est quoi la capitale de france?",
+                "Donne moi la météo d'aujourd'hui"
+            ],
+            "responses": ["Veuillez reformuler votre question, je n'ai pas compris."],
+            "complexe": false
+        },
+        {
+            "tag": "complex_query",
+            "patterns": [
+                "Quels avantages offre une carte bancaire premium ?",
+                "Comment fonctionne un compte multi-devises dans votre banque ?",
+                "Quels sont les frais associés à un Plan d'Épargne en Actions ?",
+                "Quels fonds ESG recommandez-vous pour un investissement responsable ?",
+                "Comment puis-je réduire mes frais bancaires en utilisant vos services ?",
+                "Quels conseils offrez-vous pour améliorer mon score de crédit ?",
+                "Quels sont les prêts disponibles pour les petites entreprises en démarrage ?",
+                "Quels sont les avantages du Programme Jeunes pour les moins de 25 ans ?",
+                "Quels points de fidélité puis-je accumuler et comment les utiliser ?",
+                "Quels services d'assistance juridique proposez-vous pour les clients bancaires ?",
+                "Quels outils puis-je utiliser pour suivre mes dépenses mensuelles ?",
+                "Comment signaler une activité suspecte sur mon compte bancaire ?",
+                "Quels investissements recommandez-vous pour un rendement stable sur le long terme ?",
+                "Pouvez-vous me donner plus de détails sur vos services d'accompagnement pour entrepreneurs ?",
+                "Comment puis-je profiter de vos offres exclusives pour les voyages avec une carte premium ?"
+            ],
+            "responses": [],
+            "complexe": true 
+        }
+    ]
+}
