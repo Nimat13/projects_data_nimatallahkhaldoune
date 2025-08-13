@@ -76,7 +76,7 @@ def is_complex_question(question, collection, vectorizer):
 # Utiliser Gemini pour générer une réponse pour une question complexe
 def generate_response_with_gemini(question):
     # Récupération de la clé API à partir de l'environnement
-    GOOGLE_API_KEY = "AIzaSyDBaKFKvDlIMJqaQexFE8codMgvRJKfKXs"
+    GOOGLE_API_KEY = "YOUR_API_KEY"
     
     if not GOOGLE_API_KEY:
         raise ValueError("La clé API Google n'est pas définie dans le fichier .env")
