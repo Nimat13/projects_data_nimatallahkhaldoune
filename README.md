@@ -31,3 +31,15 @@
    ```bash
    git clone https://github.com/Nimat13/Projects_NimatAllahKhaldoune.git
    cd Projects_NimatAllahKhaldoune
+   ```
+2. **Clé API Gemini** :
+    - Obtenez une clé sur Google AI Studio
+    - Ajoutez-la dans chatbot.py
+3. **Entraînement (si nécessaire)** :
+    ```bash
+    python trainings.py  # Génère les fichiers .pkl
+    ```
+4. **Lancer l'application** :
+    ```bash
+    streamlit run app.py
+    ```
